@@ -1,17 +1,9 @@
 ### Hi there, I'm Malek aka MK 👋 
 <br />
-
-**Follow me:** 
- <a href="https://twitter.com/ZaagMalek">
-  <img align="left" alt="Malek| Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
-</a>
-<br />
-<br />
-
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>.
 
 <h3> 👨🏻‍💻 About Me </h3>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>.
+
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science, computer programming and Mathematics.
