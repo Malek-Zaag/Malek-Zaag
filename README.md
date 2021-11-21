@@ -2,10 +2,10 @@
 <br />
 
 **Follow me:** 
-
  <a href="https://twitter.com/ZaagMalek">
   <img align="left" alt="Malek| Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
 </a>
+<br />
 <br />
 
 **About Me:**
