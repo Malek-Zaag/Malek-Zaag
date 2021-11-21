@@ -21,15 +21,14 @@
 <code><img height="20" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/bash.svg"></code>
 
 <h3>🛠 Tech Stack</h3> 
-<br />
-<br />
+
 - 💻 &nbsp; Python | Dart | Java | C++  
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase 
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
 - 🖥 &nbsp; Adobe Photoshop
 
-<br>
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
