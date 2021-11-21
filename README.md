@@ -1,12 +1,15 @@
 ### Hi there, I'm Malek aka MK 👋 
 <br />
-<br />
+
 **Follow me:** 
+<br />
 
  <a href="https://twitter.com/ZaagMalek">
   <img align="left" alt="Malek| Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg"/>
 </a>
+<br />
 **About Me:** 
+<br />
 
 ## I'm a Student and a part-time Developer!! Enthusiast of the best web & mobile development Technologies. Passionate about writting code and drinking coffee.
 
