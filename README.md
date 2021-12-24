@@ -5,8 +5,8 @@
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Science, computer programming and networking.
-- 💼 &nbsp; Android developer and front-end web developer.
+- 🎓 &nbsp; Studying Computer Network and Telecommunications alongside with computer science.
+- 💼 &nbsp; full stack web developer and beginner mobile developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching movies and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
@@ -22,11 +22,11 @@
 
 <h3>🛠 Tech Stack</h3> 
 
-- 💻 &nbsp; Python | Dart | Java | C++  
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase 
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Photoshop
+- 💻 &nbsp; Java | Python | Dart | C++ | Shell
+- 🌐 &nbsp; flutter | HTML | CSS | JavaScript | Bootstrap 
+- 🛢 &nbsp; MySQL | Firebase | MongoDB
+- 🔧 &nbsp; IntelliJ | Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🖥 &nbsp; Adobe Photoshop | Adobe XD
 
 
 
