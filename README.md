@@ -24,8 +24,8 @@
 
 - 💻 &nbsp; Java | Python | Dart | C++ | Shell
 - 🌐 &nbsp; flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp;  MongoDB| Firebase | 
-- 🔧 &nbsp; IntelliJ | Android Studio | PyCharm | Visual Studio code | Eclipse | Git
+- 🛢 &nbsp;  MongoDB | Firebase | 
+- 🔧 &nbsp;  Visual Studio code | IntelliJ | Eclipse | Git
 - 🖥 &nbsp;  Adobe Photoshop | Adobe XD
 
 
