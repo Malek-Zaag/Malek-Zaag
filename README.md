@@ -3,7 +3,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning new Web and cloud technologies .
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Network and Telecommunications alongside with software developpment.
 - 💼 &nbsp; full stack web developer and beginner mobile developer.
