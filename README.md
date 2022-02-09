@@ -22,8 +22,8 @@
 
 <h3>🛠 Tech Stack</h3> 
 
-- 💻 &nbsp; Java | Python | Dart | C++ | Shell
-- 🌐 &nbsp; flutter | HTML | CSS | JavaScript | Bootstrap 
+- 💻 &nbsp; Java | Javascript | Python | Dart | C++ | Shell
+- 🌐 &nbsp; JavaScript | TailwindCSS | HTML | CSS | Bootstrap | flutter
 - 🛢 &nbsp;  MongoDB | Firebase | 
 - 🔧 &nbsp;  Visual Studio code | IntelliJ | Eclipse | Git
 - 🖥 &nbsp;  Adobe Photoshop | Adobe XD
