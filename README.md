@@ -14,28 +14,27 @@
 
 **Languages and Frameworks:**  
 <p align="left">
-<img width="40" height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img width="40" height="40" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
 <img width="40" height="40" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
 <img width="40" height="40" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-<img width="40" height="40" alt="git" src="./icons/git-plain.svg"/>
-<img width="40" height="40" alt="redux" src="./icons/redux-original.svg"/>
-<img width="40" height="40" alt="react" src="./icons/react-original.svg"/>
-<img width="40" height="40" alt="bootstrap" src="./icons/gatsby.svg"/>
-<img width="40" height="40" alt="nodejs" src="./icons/node-original.svg"/>
+<img width="40" height="40" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
+<img width="40" height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img width="40" height="40" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+<img width="40" height="40" alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img width="40" height="40" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img width="40" height="40" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 <img width="40" height="40" alt="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"/>
-<img width="40" height="40" alt="express" src="./icons/express-original.svg"/>
-<img width="40" height="40" alt="nestjs" src="./icons/nestjs-plain.svg"/>
-<img width="40" height="40" alt="firebase" src="./icons/firebase-plain.svg"/>
+<img width="40" height="40" alt="redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
+<img width="40" height="40" alt="mui" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"/>
+<img width="40" height="40" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
+<img width="40" height="40" alt="express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
+<img width="40" height="40" alt="spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
+<img width="40" height="40" alt="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
 <img width="40" height="40" alt="mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
 <img width="40" height="40" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
-<img width="40" height="40" alt="spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
-<img width="40" height="40" alt="jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
-<img width="40" height="40" alt="bash" src="./icons/bash-original.svg"/>
-<img width="40" height="40" alt="linux" src="./icons/linux-original.svg"/>
-<img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
-<img width="40" height="40" alt="python" src="./icons/python-original.svg">
-<img width="50" height="50" alt="python" src="./icons/flask-original.svg">
+<img width="40" height="40" alt="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
+<img width="40" height="40" alt="bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
+<img width="40" height="40" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+<img width="40" height="40" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
 <h3>🛠 Tech Stack</h3> 
 
