@@ -14,7 +14,7 @@
 
 **Languages and Frameworks:**  
 <p align="left">
-<img width="40" height="40" alt="javascript" src="./icons/javascript-plain.svg"/>
+<img width="40" height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img width="40" height="40" alt="typescript" src="./icons/es6.svg"/>
 <img width="40" height="40" alt="typescript" src="./icons/typescript-plain.svg"/>
 <img width="40" height="40" alt="HTML5" src="./icons/html5-plain.svg"/>
