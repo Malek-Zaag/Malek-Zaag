@@ -25,8 +25,6 @@
 <img width="40" height="40" alt="angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/>
 <img width="40" height="40" alt="redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
 <img width="40" height="40" alt="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"/>
-<img width="40" height="40" alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<img width="40" height="40" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 <img width="40" height="40" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
 <img width="40" height="40" alt="express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
 <img width="40" height="40" alt="spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
@@ -36,6 +34,8 @@
 <img width="40" height="40" alt="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
 <img width="40" height="40" alt="bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
 <img width="40" height="40" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+<img width="40" height="40" alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img width="40" height="40" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 <img width="40" height="40" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img width="40" height="40" alt="trello" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg"/>
 <img width="40" height="40" alt="slack" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"/>
