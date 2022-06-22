@@ -37,7 +37,6 @@
 <img width="40" height="40" alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <img width="40" height="40" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 <img width="40" height="40" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img width="40" height="40" alt="trello" src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain-wordmark.svg"/>
 <img width="40" height="40" alt="slack" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"/>
 
 <h3>🛠 Tech Stack</h3> 
