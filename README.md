@@ -14,29 +14,29 @@
 
 **Languages and Frameworks:**  
 <p align="left">
-<img width="40" height="40" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
-<img width="40" height="40" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
-<img width="40" height="40" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
-<img width="40" height="40" alt="mui" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"/>
-<img width="40" height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img width="40" height="40" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
-<img width="40" height="40" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
-<img width="40" height="40" alt="redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
-<img width="40" height="40" alt="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"/>
-<img width="40" height="40" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
-<img width="40" height="40" alt="express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
-<img width="40" height="40" alt="spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
-<img width="40" height="40" alt="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
-<img width="40" height="40" alt="mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
-<img width="40" height="40" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
-<img width="40" height="40" alt="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
-<img width="40" height="40" alt="bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
-<img width="40" height="40" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"/>
-<img width="40" height="40" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
-<img width="40" height="40" alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
-<img width="40" height="40" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
-<img width="40" height="40" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img width="40" height="40" alt="slack" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"/>
+<img width="60" height="60" alt="HTML5" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"/>
+<img width="60" height="60" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
+<img width="60" height="60" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
+<img width="60" height="60" alt="mui" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"/>
+<img width="60" height="60" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
+<img width="60" height="60" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+<img width="60" height="60" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+<img width="60" height="60" alt="redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
+<img width="60" height="60" alt="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"/>
+<img width="60" height="60" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
+<img width="60" height="60" alt="express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
+<img width="60" height="60" alt="spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
+<img width="60" height="60" alt="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
+<img width="60" height="60" alt="mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
+<img width="60" height="60" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
+<img width="60" height="60" alt="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
+<img width="60" height="60" alt="bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
+<img width="60" height="60" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"/>
+<img width="60" height="60" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
+<img width="60" height="60" alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
+<img width="60" height="60" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
+<img width="60" height="60" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+<img width="60" height="60" alt="slack" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"/>
 
 <h3>🛠 Tech Stack</h3> 
 
