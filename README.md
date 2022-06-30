@@ -22,7 +22,6 @@
 <img width="40" height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img width="40" height="40" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
 <img width="40" height="40" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
-<img width="40" height="40" alt="angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/>
 <img width="40" height="40" alt="redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
 <img width="40" height="40" alt="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"/>
 <img width="40" height="40" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
