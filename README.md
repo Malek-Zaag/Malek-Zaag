@@ -28,7 +28,7 @@
 <img width="40" height="40" alt="spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
 <img width="40" height="40" alt="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
 <img width="40" height="40" alt="mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
-<img width="40" height="40" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg"/>
+<img width="40" height="40" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img width="40" height="40" alt="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
 <img width="40" height="40" alt="bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
 <img width="40" height="40" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"/>
