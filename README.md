@@ -18,7 +18,6 @@
 <img width="40" height="40" alt="CSS3" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg"/>
 <img width="40" height="40" alt="bootstrap" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg"/>
 <img width="40" height="40" alt="mui" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg"/>
-<img width="40" height="40" alt="tailwincss" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg"/>
 <img width="40" height="40" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img width="40" height="40" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
 <img width="40" height="40" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
