@@ -32,6 +32,7 @@
 <img width="40" height="40" alt="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
 <img width="40" height="40" alt="bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
 <img width="40" height="40" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg"/>
+<img width="40" height="40" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
 <img width="40" height="40" alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <img width="40" height="40" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 <img width="40" height="40" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
