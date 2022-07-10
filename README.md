@@ -22,6 +22,7 @@
 <img width="50" height="50" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
 <img width="50" height="50" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 <img width="50" height="50" alt="redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
+<img width="50" height="50" alt="ionic" src="https://github.com/devicons/devicon/blob/master/icons/ionic/ionic-original.svg"/>
 <img width="50" height="50" alt="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"/>
 <img width="50" height="50" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
 <img width="50" height="50" alt="express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
