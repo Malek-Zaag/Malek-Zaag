@@ -32,7 +32,7 @@
 <img width="50" height="50" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img width="50" height="50" alt="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
 <img width="50" height="50" alt="bash" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg"/>
-<img width="50" height="50" alt="docker" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-plain.svg"/>
+<img width="50" height="50" alt="docker" src="https://camo.githubusercontent.com/e885996e4049b167e452a67e5c384ed96ddfb63741221c7607c45731e4fb15b9/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f646f636b65722e706e67"/>
 <img width="50" height="50" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
 <img width="50" height="50" alt="github" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"/>
 <img width="50" height="50" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
