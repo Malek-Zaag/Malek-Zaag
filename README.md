@@ -23,7 +23,6 @@
 <img width="50" height="50" alt="angular" src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"/>
 <img width="50" height="50" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
 <img width="50" height="50" alt="redux" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg"/>
-<img width="50" height="50" alt="nestjs" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg"/>
 <img width="50" height="50" alt="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"/>
 <img width="50" height="50" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
 <img width="50" height="50" alt="express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
