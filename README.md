@@ -38,6 +38,9 @@
 <img width="50" height="50" alt="git" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg"/>
 <img width="50" height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img width="50" height="50" alt="slack" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"/>
+<img width="50" height="50" alt="flutter" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
+<img width="50" height="50" alt="dart" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"/>
+<img width="50" height="50" alt="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
 
 <h3>🛠 Tech Stack</h3> 
 
