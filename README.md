@@ -28,7 +28,6 @@
 <img width="50" height="50" alt="express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
 <img width="50" height="50" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 <img width="50" height="50" alt="spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
-<img width="50" height="50" alt="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
 <img width="50" height="50" alt="mongodb" src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg"/>
 <img width="50" height="50" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
 <img width="50" height="50" alt="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
@@ -40,7 +39,6 @@
 <img width="50" height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img width="50" height="50" alt="slack" src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg"/>
 <img width="50" height="50" alt="flutter" src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg"/>
-<img width="50" height="50" alt="dart" src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg"/>
 <img width="50" height="50" alt="firebase" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg"/>
 
 <h3>🛠 Tech Stack</h3> 
