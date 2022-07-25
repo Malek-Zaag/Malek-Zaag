@@ -16,9 +16,7 @@
 <p align="left">
 <img width="50" height="50" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
 <img width="50" height="50" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
-<img width="50" height="50" alt="nextjs" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg"/>
 <img width="50" height="50" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
-<img width="50" height="50" alt="express" src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg"/>
 <img width="50" height="50" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 <img width="50" height="50" alt="spring" src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"/>
 <img width="50" height="50" alt="mysql" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/>
