@@ -11,6 +11,7 @@
 - ✍️ &nbsp; Watching movies and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=Malek-Zaag)](https://github.com/ryo-ma/github-profile-trophy)
 
 **Languages and Frameworks:**  
 <p align="left">
