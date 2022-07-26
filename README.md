@@ -25,16 +25,9 @@
 <img width="50" height="50" alt="azure" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
 <img width="50" height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
-<p display="flex"><h3>🛠 Tech Stack</h3> 
-
-- 💻 &nbsp; Java | Javascript | Python | Dart | C++ | Shell
-- 🌐 &nbsp; JavaScript | TailwindCSS | HTML | CSS | Bootstrap | flutter
-- 🛢 &nbsp;  MongoDB | Firebase | 
-- 🔧 &nbsp;  Visual Studio code | IntelliJ | Eclipse | Git
-- 🖥 &nbsp;  Adobe Photoshop | Adobe XD
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&layout=compact)](https://github.com/Malek-Zaag/github-readme-stats)
-</p>
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
