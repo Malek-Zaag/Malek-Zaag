@@ -33,7 +33,7 @@
 - 🔧 &nbsp;  Visual Studio code | IntelliJ | Eclipse | Git
 - 🖥 &nbsp;  Adobe Photoshop | Adobe XD
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&layout=compact)](https://github.com/Malek-Zaag/github-readme-stats)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
