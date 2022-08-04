@@ -14,8 +14,9 @@
 
 **Languages and Tools:**  
 <p align="left">
-<img width="50" height="50" alt="typescript" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg"/>
+<img width="50" height="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
 <img width="50" height="50" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
+<img width="50" height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 <img width="50" height="50" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
 <img width="50" height="50" alt="java" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 <img width="50" height="50" alt="spring" src="https://github.com/wadhah101/wadhah101/blob/master/icons/spring.svg"/>
