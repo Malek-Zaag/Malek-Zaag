@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Network and Telecommunications alongside with software developpment.
 - 💼 &nbsp; full stack web developer and beginner mobile developer.
-- 🌱 &nbsp; Enthusiast in cyber Security (Pentesting and Cryptography) .
+- 🌱 &nbsp; Enthusiast in cyber Security (Web Exploitation and Pentesting) .
 - ✍️ &nbsp; Watching movies and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
