@@ -24,8 +24,6 @@
 <img width="50" height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&layout=compact)](https://github.com/Malek-Zaag/github-readme-stats)
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
