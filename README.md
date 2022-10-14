@@ -1,36 +1,30 @@
-### Hi there, I'm Malek aka MK 👋 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+[![Gmail](https://img.shields.io/badge/-malek.zaag-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zaag.malek1@gmail.com) ![Count](https://komarev.com/ghpvc/?username=Malek-Zaag) [![Github](https://img.shields.io/github/followers/Malek-Zaag?label=Follow&style=social)](https://github.com/Malek-Zaag)
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h1 align="center">
+    <b>Hello there, mate! :wave:</b>
+</h1>
 
-- 🔭 &nbsp; I’m currently learning new Web and cloud technologies .
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Computer Network and Telecommunications alongside with software developpment.
-- 💼 &nbsp; full stack web developer and beginner mobile developer.
-- 🌱 &nbsp; Enthusiast in cyber Security (Web Exploitation and Pentesting) .
-- ✍️ &nbsp; Watching movies and trying out latest design trends as hobbies/side hustles.
-- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- My name is Malek Zaag, and I am someone who loves **dark mode**. ✨
+- I mainly code in **Python** and **Typescript** 👨🏽‍💻
+- I am currently learning new Web and cloud technologies, with great enthusiasm for **CyberSecurity** 🚀
+- I am also someone who enjoys meeting new people, networking and working in teams! 🤗
+- I belive, a perfect cup of coffee can be the ultimate solution for any stress ☕ &nbsp;
 
+<h2 align="center">
+    <b>Let's connect! 😁</b>
+</h2>
 
-**Languages and Tools:**  
-<p align="left">
-<img width="50" height="50" alt="javascript" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"/>
-<img width="50" height="50" alt="react" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"/>
-<img width="50" height="50" alt="python" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-<img width="50" height="50" alt="nodejs" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg"/>
-<img width="50" height="50" alt="linux" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg"/>
-<img width="50" height="50" alt="docker" src="https://camo.githubusercontent.com/e885996e4049b167e452a67e5c384ed96ddfb63741221c7607c45731e4fb15b9/68747470733a2f2f696d672e69636f6e73382e636f6d2f666c75656e742f34382f3030303030302f646f636b65722e706e67"/>
-<img width="50" height="50" alt="azure" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"/>
+[<p align="center"></b> <img src='assets/Illustration-of-Linkedin-icon-on-transparent-background-PNG.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/malekzaag/)
+[ <img src='assets/Facebook-icon-design-illustration-on-transparent-background-PNG.png' alt='linkedin' height='40'> </p>](https://www.facebook.com/zaag.malek.1/)
 
-
-
-<h3> 🤝🏻 Connect with Me </h3>
+<h2 align="center">
+    <b>Would you like to see some stats? 💯</b>
+</h2>
 
 <p align="center">
-&nbsp; <a href="https://twitter.com/ZaagMalek" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/twitter.png" width="50" /></a>  
-&nbsp; <a href="https://www.instagram.com/zaagmalek/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
-&nbsp; <a href="https://www.linkedin.com/in/malekzaag/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="zaag.malek1@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+    <img src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&show_icons=true&theme=graywhite" alt="Anurag's github stats">
 </p>
 
-⭐️ From [Malek](https://github.com/Malek-Zaag)
+<h2 align="center">
+    <b>Well, it was nice meeting you! Have a great day! :wave:	
+</h2>
