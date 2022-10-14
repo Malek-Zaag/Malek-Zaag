@@ -13,10 +13,10 @@
 <h2 align="center">
     <b>Let's connect! 😁</b>
 </h2>
-
-[<p align="center"></b> <img src='https://i.imgur.com/vyL2VRi.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/malekzaag/)
-[<img src='https://i.imgur.com/wdFw6N0.png' alt='linkedin' height='40'> </p>](https://www.facebook.com/zaag.malek.1/)
-
+<p align="center"></b> 
+[<img src='https://i.imgur.com/vyL2VRi.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/malekzaag/)
+[<img src='https://i.imgur.com/wdFw6N0.png' alt='linkedin' height='40'> ](https://www.facebook.com/zaag.malek.1/)
+</p>
 <h2 align="center">
     <b>Would you like to see some stats? 💯</b>
 </h2>
