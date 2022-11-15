@@ -30,7 +30,7 @@ Want to know more about me? Check out [my portfolio site]()
 [![Twitter](https://img.shields.io/badge/spencerlepine%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/spencerlepine/)](https://twitter.com/spencerlepine/) -->
 
 
-<!-- ### Languages & Tools
+### Languages & Tools
 ![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
 ![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
