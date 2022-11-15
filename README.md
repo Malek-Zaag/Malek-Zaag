@@ -10,7 +10,7 @@ Want to know more about me? Check out [my portfolio site]()
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZaagMalek)
 [![Email](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaag.malek1@gmail.com)
 
-[![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=malekzaag&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/Malek-Zaag)
+[![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/Malek-Zaag)
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
