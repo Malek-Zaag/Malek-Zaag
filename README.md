@@ -1,30 +1,50 @@
-[![Gmail](https://img.shields.io/badge/-malek.zaag-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zaag.malek1@gmail.com) ![Count](https://komarev.com/ghpvc/?username=Malek-Zaag) [![Github](https://img.shields.io/github/followers/Malek-Zaag?label=Follow&style=social)](https://github.com/Malek-Zaag)
+<!-- [![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com)
+ -->
+## Hello there! I'm Spencer Lepine 👋
 
-<h1 align="center">
-    <b>Hello there, mate! :wave:</b>
-</h1>
+<!-- [![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com) -->
 
-- My name is Malek Zaag, and I am someone who loves **dark mode**. ✨
-- I mainly code in **Python** and **Typescript** 👨🏽‍💻
-- I am currently learning new Web and cloud technologies, with great enthusiasm for **CyberSecurity** 🚀
-- I am also someone who enjoys meeting new people, networking and working in teams! 🤗
-- I belive, a perfect cup of coffee can be the ultimate solution for any stress ☕ &nbsp;
+Want to know more about me? Check out [my portfolio site](https://spencerlepine.com/)
 
-<h2 align="center">
-    <b>Let's connect! 😁</b>
-</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-lepine/)
+[![YouTube](https://img.shields.io/badge/Youtube-f54257?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBL6vAHJZqUlyJp-rcFU55Q)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/spencerlepine)
+[![Email](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spencer.sayhello@gmail.com)
 
-[<p align="center"></b> <img src='https://i.imgur.com/vyL2VRi.png' alt='linkedin' height='40'>](https://www.linkedin.com/in/malekzaag/)
-[<img src='https://i.imgur.com/wdFw6N0.png' alt='linkedin' height='40'> </p>](https://www.facebook.com/zaag.malek.1/)
+[![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerlepine&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/spencerlepine)
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-<h2 align="center">
-    <b>Would you like to see some stats? 💯</b>
-</h2>
+<!-- Old Social Badges -->
+<!-- [![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine) -->
+<!-- [![GitHub:spencerlepine](https://img.shields.io/github/followers/spencerlepine?label=follow&style=social)](https://github.com/spencerlepine) -->
+<!-- [![Twitter:spencerlepine](https://img.shields.io/twitter/follow/spencerlepine?style=social)](https://twitter.com/spencerlepine) -->
+<!-- [![Linkedin:Spencer Lepine](https://img.shields.io/badge/-Spencer_Lepine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spencer-lepine/)](https://www.linkedin.com/in/spencerlepine/) -->
+<!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBL6vAHJZqUlyJp-rcFU55Q) -->
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&show_icons=true&theme=graywhite" alt="Anurag's github stats">
-</p>
 
-<h2 align="center">
-    <b>Well, it was nice meeting you! Have a great day! :wave:	
-</h2>
+<!--
+[![LinkedIn](https://img.shields.io/badge/spencerlepine%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/spencerlepine/)](https://www.linkedin.com/in/spencerlepine/)
+[![GitHub](https://img.shields.io/badge/spencerlepine%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/spencerlepine)](https://github.com/spencerlepine)
+[![Salesforce](https://img.shields.io/badge/spencerlepine%20-%2300A1E0.svg?&style=flat-square&logo=salesforce&logoColor=white&link=https://trailblazer.me/id/spencerlepine)](https://trailblazer.me/id/spencerlepine)
+[![Gmail](https://img.shields.io/badge/spencerlepine%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:hello@spencerlepine.com)](mailto:hellp@spencerlepine.com)
+[![Twitter](https://img.shields.io/badge/spencerlepine%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/spencerlepine/)](https://twitter.com/spencerlepine/) -->
+
+
+<!-- ### Languages & Tools
+![React](https://img.shields.io/badge/React%20-%2320232a.svg?&style=flat-square&logo=react&logoColor=%2361DAFB)
+![HTML](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?&style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3%20-%231572B6.svg?&style=flat-square&logo=css3&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook%20-%23FF4785.svg?&style=flat-square&logo=storybook&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest%20-%23C21325.svg?&style=flat-square&logo=Jest&logoColor=white)
+![Git](https://img.shields.io/badge/Git%20-%23F05033.svg?&style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VS%20Code%20-%23007ACC.svg?&style=flat-square&logo=visual-studio-code&logoColor=white)
+
+![Apex](https://img.shields.io/badge/Apex%20-%2300A1E0.svg?&style=flat-square&logo=salesforce&logoColor=white)
+![Node](https://img.shields.io/badge/Node.js%20-%2343853D.svg?&style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express%20-%23404d59.svg?&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?&style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?&style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?&style=flat-square&logo=mongodb&logoColor=white)
+![webpack](https://img.shields.io/badge/webpack%20-%238DD6F9.svg?&style=flat-square&logo=webpack&logoColor=black) -->
+
