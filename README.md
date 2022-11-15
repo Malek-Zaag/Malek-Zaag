@@ -33,11 +33,9 @@ Want to know more about me? Check out [my portfolio site]()
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **Flask, Django**.
-- Making for **Relational Database Management Systems**.
+- Backend development using **Spring Boot, ExpressJS**.
 - Robust full-stack system design implementation.
-- Desktop application development using **Flutter** (Still learning).
-- Mobile application development using **Flutter and Kotlin**.
-- Creating scalable cloud architecture using **AWS Cloud**.
+- Learning pipelines and various **CI/CD tools**.
+- Creating scalable cloud architecture using **Azure Cloud**.
 - Solving Data structure and algorithm questions in **Java and Python**.
 
