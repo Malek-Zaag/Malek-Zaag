@@ -1,17 +1,16 @@
 <!-- [![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com)
  -->
-## Hello there! I'm Spencer Lepine 👋
+## Hello there! I'm Malek Zaag 👋
 
 <!-- [![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com) -->
 
-Want to know more about me? Check out [my portfolio site](https://spencerlepine.com/)
+Want to know more about me? Check out [my portfolio site]()
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/spencer-lepine/)
-[![YouTube](https://img.shields.io/badge/Youtube-f54257?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBL6vAHJZqUlyJp-rcFU55Q)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](twitter.com/spencerlepine)
-[![Email](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:spencer.sayhello@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malekzaag/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZaagMalek)
+[![Email](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaag.malek1@gmail.com)
 
-[![Spencer's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerlepine&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/spencerlepine)
+[![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=spencerlepine&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/Malek-Zaag)
 <!-- 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
