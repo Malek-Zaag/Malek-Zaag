@@ -29,8 +29,8 @@ Want to know more about me? Check out [my portfolio site]()
 
 ## ⚡ Technologies
 Talk to me about:
-- Front-end development using **HTML, Javascript, CSS, Bootstrap**.
-- Backend development using **NodeJS**.
+- Front-end development using **HTML, Javascript, CSS, and React**.
+- Backend development using **Spring Boot, NodeJS**.
 - Robust full-stack system design implementation.
 - Learning pipelines and various **CI/CD tools**.
 - Creating scalable cloud architecture using **Azure Cloud**.
