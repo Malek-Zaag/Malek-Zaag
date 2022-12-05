@@ -9,11 +9,11 @@ Want to know more about me? Check out [my portfolio site]()
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+and+DevOps+student;Network+Engineer;CyberSecurity+Enthusiast)](https://git.io/typing-svg)
 
-[<img src='https://user-images.githubusercontent.com/59792971/164092560-819298ce-c9ba-4438-a368-bd1bcd6e7389.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/malekzaag/) [<img src='https://user-images.githubusercontent.com/59792971/164092047-ea3ce66e-7068-4d46-b3ea-fbac1c0cb5fd.png' alt='facebook' height='50'>](https://www.facebook.com/zaag.malek.1/)  [<img src='https://user-images.githubusercontent.com/59792971/164092165-318b4325-304b-4b3e-8143-eb8906976e4d.png' alt='email' height='53'>](mailto:zaag.malek1@gmail.com) [<img src='https://user-images.githubusercontent.com/59792971/164092695-39033b7c-6d7a-4519-b8d5-3a4cd59ee1bc.png' alt='Portfolio' height='47'>](https:///)
+[<img src='https://user-images.githubusercontent.com/59792971/164092560-819298ce-c9ba-4438-a368-bd1bcd6e7389.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/malekzaag/) 
+[<img src='https://user-images.githubusercontent.com/59792971/164092047-ea3ce66e-7068-4d46-b3ea-fbac1c0cb5fd.png' alt='facebook' height='50'>](https://www.facebook.com/zaag.malek.1/)  
+[<img src='https://user-images.githubusercontent.com/59792971/164092165-318b4325-304b-4b3e-8143-eb8906976e4d.png' alt='email' height='53'>](mailto:zaag.malek1@gmail.com) 
+[<img src='https://user-images.githubusercontent.com/59792971/164092695-39033b7c-6d7a-4519-b8d5-3a4cd59ee1bc.png' alt='Portfolio' height='47'>](https:///)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malekzaag/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZaagMalek)
-[![Email](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaag.malek1@gmail.com)
 
 ![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true)
 <!-- Old Social Badges -->
