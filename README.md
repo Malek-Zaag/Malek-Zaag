@@ -6,6 +6,9 @@
 
 Want to know more about me? Check out [my portfolio site]()
 
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Software+Engineering+Student;Full+Stack+Developer;UI/UX+Designer;Always%20learning%20new%20things&center=false&width=500&height=50"></a>
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/malekzaag/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZaagMalek)
 [![Email](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaag.malek1@gmail.com)
