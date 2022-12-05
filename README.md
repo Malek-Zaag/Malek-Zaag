@@ -12,7 +12,7 @@ Want to know more about me? Check out [my portfolio site]()
 
 [![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&hide=stars&count_private=true&show_icons=true&theme=dark)](https://github.com/Malek-Zaag)
  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&layout=compact)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag)](https://github.com/anuraghazra/github-readme-stats) 
 
 <!-- Old Social Badges -->
 <!-- [![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine) -->
