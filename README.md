@@ -1,7 +1,7 @@
 <!-- [![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com)
  -->
 ## Hello there! I'm Malek Zaag 👋
-
+![Count](https://visitor-badge.laobi.icu/badge?page_id=Malek-Zaag.Malek-Zaag) [![Github](https://img.shields.io/github/followers/Malek-Zaag?label=Follow&style=social)](https://github.com/Malek-Zaag) 
 <!-- [![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com) -->
 
 Want to know more about me? Check out [my portfolio site]()
