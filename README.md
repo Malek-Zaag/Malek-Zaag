@@ -10,9 +10,7 @@ Want to know more about me? Check out [my portfolio site]()
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/ZaagMalek)
 [![Email](https://img.shields.io/badge/Email-f54257?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaag.malek1@gmail.com)
 
- 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag)](https://github.com/anuraghazra/github-readme-stats) 
-
+![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true)
 <!-- Old Social Badges -->
 <!-- [![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine) -->
 <!-- [![GitHub:spencerlepine](https://img.shields.io/github/followers/spencerlepine?label=follow&style=social)](https://github.com/spencerlepine) -->
