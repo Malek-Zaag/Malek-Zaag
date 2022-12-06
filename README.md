@@ -67,6 +67,8 @@ I'm Malek Zaag
 <img width="40" height="40" alt="python" src="./icons/python-original.svg">
 <img width="50" height="50" alt="python" src="./icons/flask-original.svg"
 <br />
+<br /> 
+
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, and ReactJS**.
