@@ -31,7 +31,7 @@
 ## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, and ReactJS**.
-- Backend development using **Spring Boot, NodeJS**.
+- Backend development using **NodeJS**.
 - Robust full-stack system design implementation.
 - Learning pipelines and various **CI/CD tools**.
 - Creating scalable cloud architecture using **Azure Cloud**.
