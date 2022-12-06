@@ -30,7 +30,7 @@ I'm Malek Zaag
 [![Twitter](https://img.shields.io/badge/spencerlepine%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/spencerlepine/)](https://twitter.com/spencerlepine/) -->
 
 
-## ⚡ Technologies
+
 ## Languages and Tools :
 
 <p align="left">
@@ -66,8 +66,8 @@ I'm Malek Zaag
 <img width="40" height="40" alt="docker" src="./icons/docker-plain.svg"/>
 <img width="40" height="40" alt="python" src="./icons/python-original.svg">
 <img width="50" height="50" alt="python" src="./icons/flask-original.svg"
-
-<br>
+<br />
+## ⚡ Technologies
 Talk to me about:
 - Front-end development using **HTML, Javascript, CSS, and ReactJS**.
 - Backend development using **NodeJS**.
