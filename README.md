@@ -15,7 +15,7 @@ I'm Malek Zaag
 
 ### How to contact me ?
 
-[<img src='https://user-images.githubusercontent.com/59792971/165092560-819298ce-c9ba-4438-a368-bd1bcd6e7389.png' alt='linkedin' height='50'>](https://www.linkedin.com/in/malekzaag/) [<img src='https://user-images.githubusercontent.com/59792971/165092047-ea3ce66e-7068-4d46-b3ea-fbac1c0cb5fd.png' alt='facebook' height='50'>](https://www.facebook.com/zaag.malek.1/) [<img src='https://user-images.githubusercontent.com/59792971/165092165-318b4325-304b-4b3e-8143-eb8906976e4d.png' alt='email' height='53'>](mailto:zaag.malek1@gmail.com) [<img src='https://user-images.githubusercontent.com/59792971/165092695-39033b7c-6d7a-4519-b8d5-3a4cd59ee1bc.png' alt='Portfolio' height='47'>](https:///)
+[<img src='https://user-images.githubusercontent.com/59792971/164592560-819298ce-c9ba-4438-a368-bd1bcd6e7389.png' alt='linkedin' height='45'>](https://www.linkedin.com/in/malekzaag/) [<img src='https://user-images.githubusercontent.com/59792971/164592047-ea3ce66e-7068-4d46-b3ea-fbac1c0cb5fd.png' alt='facebook' height='45'>](https://www.facebook.com/zaag.malek.1/) [<img src='https://user-images.githubusercontent.com/59792971/164592165-318b4325-304b-4b3e-8143-eb8906976e4d.png' alt='email' height='53'>](mailto:zaag.malek1@gmail.com) [<img src='https://user-images.githubusercontent.com/59792971/164592695-39033b7c-6d7a-4519-b8d5-3a4cd59ee1bc.png' alt='Portfolio' height='47'>](https:///)
 
 ![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true)
 
@@ -36,33 +36,33 @@ I'm Malek Zaag
 ## Languages and Tools :
 
 <p align="left">
-<img width="50" height="50" alt="javascript" src="./icons/javascript-plain.svg"/>
-<img width="50" height="50" alt="typescript" src="./icons/es6.svg"/>
-<img width="50" height="50" alt="typescript" src="./icons/typescript-plain.svg"/>
-<img width="50" height="50" alt="HTML5" src="./icons/html5-plain.svg"/>
-<img width="50" height="50" alt="CSS3" src="./icons/css3-plain.svg"/>
-<img width="50" height="50" alt="sass" src="./icons/sass-original.svg"/>
-<img width="50" height="50" alt="git" src="./icons/git-plain.svg"/>
-<img width="50" height="50" alt="redux" src="./icons/redux-original.svg"/>
-<img width="50" height="50" alt="react" src="./icons/react-original.svg"/>
-<img width="50" height="50" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
-<img width="50" height="50" alt="graphql" src="./icons/graphql.svg"/>
-<img width="50" height="50" alt="nodejs" src="./icons/node-original.svg"/>
-<img width="50" height="50" alt="nextjs" src="./icons/nextjs.svg"/>
-<img width="50" height="50" alt="express" src="./icons/express-original.svg"/>
-<img width="50" height="50" alt="nestjs" src="./icons/nestjs-plain.svg"/>
-<img width="50" height="50" alt="firebase" src="./icons/firebase-plain.svg"/>
-<img width="50" height="50" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
-<img width="50" height="50" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
-<img width="50" height="50" alt="postgresql" src="./icons/postgresql-plain.svg"/>
-<img width="50" height="50" alt="sequelize" src="./icons/sequelize-original.svg"/>
-<img width="50" height="50" alt="webpack" src="./icons/webpack-plain.svg"/>
-<img width="50" height="50" alt="babel" src="./icons/babel-original.svg"/>
-<img width="50" height="50" alt="jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
-<img width="50" height="50" alt="bash" src="./icons/bash-original.svg"/>
-<img width="50" height="50" alt="linux" src="./icons/linux-original.svg"/>
-<img width="50" height="50" alt="docker" src="./icons/docker-plain.svg"/>
-<img width="50" height="50" alt="python" src="./icons/python-original.svg">
+<img width="45" height="45" alt="javascript" src="./icons/javascript-plain.svg"/>
+<img width="45" height="45" alt="typescript" src="./icons/es6.svg"/>
+<img width="45" height="45" alt="typescript" src="./icons/typescript-plain.svg"/>
+<img width="45" height="45" alt="HTML5" src="./icons/html5-plain.svg"/>
+<img width="45" height="45" alt="CSS3" src="./icons/css3-plain.svg"/>
+<img width="45" height="45" alt="sass" src="./icons/sass-original.svg"/>
+<img width="45" height="45" alt="git" src="./icons/git-plain.svg"/>
+<img width="45" height="45" alt="redux" src="./icons/redux-original.svg"/>
+<img width="45" height="45" alt="react" src="./icons/react-original.svg"/>
+<img width="45" height="45" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
+<img width="45" height="45" alt="graphql" src="./icons/graphql.svg"/>
+<img width="45" height="45" alt="nodejs" src="./icons/node-original.svg"/>
+<img width="45" height="45" alt="nextjs" src="./icons/nextjs.svg"/>
+<img width="45" height="45" alt="express" src="./icons/express-original.svg"/>
+<img width="45" height="45" alt="nestjs" src="./icons/nestjs-plain.svg"/>
+<img width="45" height="45" alt="firebase" src="./icons/firebase-plain.svg"/>
+<img width="45" height="45" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
+<img width="45" height="45" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
+<img width="45" height="45" alt="postgresql" src="./icons/postgresql-plain.svg"/>
+<img width="45" height="45" alt="sequelize" src="./icons/sequelize-original.svg"/>
+<img width="45" height="45" alt="webpack" src="./icons/webpack-plain.svg"/>
+<img width="45" height="45" alt="babel" src="./icons/babel-original.svg"/>
+<img width="45" height="45" alt="jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
+<img width="45" height="45" alt="bash" src="./icons/bash-original.svg"/>
+<img width="45" height="45" alt="linux" src="./icons/linux-original.svg"/>
+<img width="45" height="45" alt="docker" src="./icons/docker-plain.svg"/>
+<img width="45" height="45" alt="python" src="./icons/python-original.svg">
 <br />
 <br />
 
