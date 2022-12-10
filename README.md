@@ -39,7 +39,6 @@ I'm Malek Zaag
 <img width="50" height="50" alt="javascript" src="./icons/javascript-plain.svg"/>
 <img width="50" height="50" alt="typescript" src="./icons/typescript-plain.svg"/>
 <img width="50" height="50" alt="nestjs" src="./icons/nestjs-plain.svg"/>
-<img width="50" height="50" alt="typescript" src="./icons/es6.svg"/>
 <img width="50" height="50" alt="python" src="./icons/python-original.svg">
 <img width="50" height="50" alt="git" src="./icons/git-plain.svg"/>
 <img width="50" height="50" alt="react" src="./icons/react-original.svg"/>
