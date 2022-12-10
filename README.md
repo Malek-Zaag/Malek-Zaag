@@ -37,32 +37,22 @@ I'm Malek Zaag
 
 <p align="left">
 <img width="45" height="45" alt="javascript" src="./icons/javascript-plain.svg"/>
-<img width="45" height="45" alt="typescript" src="./icons/es6.svg"/>
 <img width="45" height="45" alt="typescript" src="./icons/typescript-plain.svg"/>
-<img width="45" height="45" alt="HTML5" src="./icons/html5-plain.svg"/>
-<img width="45" height="45" alt="CSS3" src="./icons/css3-plain.svg"/>
-<img width="45" height="45" alt="sass" src="./icons/sass-original.svg"/>
+<img width="45" height="45" alt="nestjs" src="./icons/nestjs-plain.svg"/>
+<img width="45" height="45" alt="typescript" src="./icons/es6.svg"/>
+<img width="45" height="45" alt="python" src="./icons/python-original.svg">
 <img width="45" height="45" alt="git" src="./icons/git-plain.svg"/>
-<img width="45" height="45" alt="redux" src="./icons/redux-original.svg"/>
 <img width="45" height="45" alt="react" src="./icons/react-original.svg"/>
-<img width="45" height="45" alt="bootstrap" src="./icons/bootstrap-plain.svg"/>
-<img width="45" height="45" alt="graphql" src="./icons/graphql.svg"/>
 <img width="45" height="45" alt="nodejs" src="./icons/node-original.svg"/>
 <img width="45" height="45" alt="nextjs" src="./icons/nextjs.svg"/>
 <img width="45" height="45" alt="express" src="./icons/express-original.svg"/>
-<img width="45" height="45" alt="nestjs" src="./icons/nestjs-plain.svg"/>
 <img width="45" height="45" alt="firebase" src="./icons/firebase-plain.svg"/>
 <img width="45" height="45" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
 <img width="45" height="45" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
-<img width="45" height="45" alt="postgresql" src="./icons/postgresql-plain.svg"/>
 <img width="45" height="45" alt="sequelize" src="./icons/sequelize-original.svg"/>
-<img width="45" height="45" alt="webpack" src="./icons/webpack-plain.svg"/>
-<img width="45" height="45" alt="babel" src="./icons/babel-original.svg"/>
-<img width="45" height="45" alt="jest" src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg"/>
 <img width="45" height="45" alt="bash" src="./icons/bash-original.svg"/>
 <img width="45" height="45" alt="linux" src="./icons/linux-original.svg"/>
 <img width="45" height="45" alt="docker" src="./icons/docker-plain.svg"/>
-<img width="45" height="45" alt="python" src="./icons/python-original.svg">
 <br />
 <br />
 
