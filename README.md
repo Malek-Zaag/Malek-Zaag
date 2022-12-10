@@ -36,23 +36,22 @@ I'm Malek Zaag
 ## Languages and Tools :
 
 <p align="left">
-<img width="45" height="45" alt="javascript" src="./icons/javascript-plain.svg"/>
-<img width="45" height="45" alt="typescript" src="./icons/typescript-plain.svg"/>
-<img width="45" height="45" alt="nestjs" src="./icons/nestjs-plain.svg"/>
-<img width="45" height="45" alt="typescript" src="./icons/es6.svg"/>
-<img width="45" height="45" alt="python" src="./icons/python-original.svg">
-<img width="45" height="45" alt="git" src="./icons/git-plain.svg"/>
-<img width="45" height="45" alt="react" src="./icons/react-original.svg"/>
-<img width="45" height="45" alt="nodejs" src="./icons/node-original.svg"/>
-<img width="45" height="45" alt="nextjs" src="./icons/nextjs.svg"/>
-<img width="45" height="45" alt="express" src="./icons/express-original.svg"/>
-<img width="45" height="45" alt="firebase" src="./icons/firebase-plain.svg"/>
-<img width="45" height="45" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
-<img width="45" height="45" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
-<img width="45" height="45" alt="sequelize" src="./icons/sequelize-original.svg"/>
-<img width="45" height="45" alt="bash" src="./icons/bash-original.svg"/>
-<img width="45" height="45" alt="linux" src="./icons/linux-original.svg"/>
-<img width="45" height="45" alt="docker" src="./icons/docker-plain.svg"/>
+<img width="50" height="50" alt="javascript" src="./icons/javascript-plain.svg"/>
+<img width="50" height="50" alt="typescript" src="./icons/typescript-plain.svg"/>
+<img width="50" height="50" alt="nestjs" src="./icons/nestjs-plain.svg"/>
+<img width="50" height="50" alt="typescript" src="./icons/es6.svg"/>
+<img width="50" height="50" alt="python" src="./icons/python-original.svg">
+<img width="50" height="50" alt="git" src="./icons/git-plain.svg"/>
+<img width="50" height="50" alt="react" src="./icons/react-original.svg"/>
+<img width="50" height="50" alt="nodejs" src="./icons/node-original.svg"/>
+<img width="50" height="50" alt="nextjs" src="./icons/nextjs.svg"/>
+<img width="50" height="50" alt="express" src="./icons/express-original.svg"/>
+<img width="50" height="50" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
+<img width="50" height="50" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
+<img width="50" height="50" alt="sequelize" src="./icons/sequelize-original.svg"/>
+<img width="50" height="50" alt="bash" src="./icons/bash-original.svg"/>
+<img width="50" height="50" alt="linux" src="./icons/linux-original.svg"/>
+<img width="50" height="50" alt="docker" src="./icons/docker-plain.svg"/>
 <br />
 <br />
 
