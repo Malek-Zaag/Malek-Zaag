@@ -41,6 +41,7 @@ I'm Malek Zaag
 <img width="50" height="50" alt="nestjs" src="./icons/nestjs-plain.svg"/>
 <img width="50" height="50" alt="python" src="./icons/icons8-python.svg">
 <img width="50" height="50" alt="jenkins" src="./icons/icons8-jenkins.svg"/>
+<img width="50" height="50" alt="argocd" src="./icons/argo-stacked-color.svg"/>
 <img width="50" height="50" alt="kubernetes" src="./icons/icons8-kubernetes.svg"/>
 <img width="50" height="50" alt="git" src="./icons/git-plain.svg"/>
 <img width="50" height="50" alt="react" src="./icons/react-original.svg"/>
