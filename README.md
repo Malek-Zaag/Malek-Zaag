@@ -36,25 +36,20 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 ## Languages and Tools :
 
 <p align="left">
-<img width="50" height="50" alt="javascript" src="./icons/javascript-plain.svg"/>
-<img width="50" height="50" alt="typescript" src="./icons/typescript-plain.svg"/>
-<img width="50" height="50" alt="nestjs" src="./icons/nestjs-plain.svg"/>
-<img width="50" height="50" alt="python" src="./icons/icons8-python.svg">
-<img width="50" height="50" alt="jenkins" src="./icons/icons8-jenkins.svg"/>
-<img width="50" height="50" alt="argocd" src="./icons/argo-stacked-color.svg"/>
-<img width="50" height="50" alt="kubernetes" src="./icons/icons8-kubernetes.svg"/>
-<img width="50" height="50" alt="git" src="./icons/git-plain.svg"/>
-<img width="50" height="50" alt="react" src="./icons/react-original.svg"/>
-<img width="50" height="50" alt="nodejs" src="./icons/node-original.svg"/>
-<img width="50" height="50" alt="nextjs" src="./icons/nextjs.svg"/>
-<img width="50" height="50" alt="express" src="./icons/express-original.svg"/>
-<img width="50" height="50" alt="azure" src="./icons/icons8-azure.svg"/>
-<img width="50" height="50" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg"/>
-<img width="50" height="50" alt="mysql" src="./icons/mysql-plain-wordmark.svg"/>
-<img width="50" height="50" alt="sequelize" src="./icons/sequelize-original.svg"/>
-<img width="50" height="50" alt="bash" src="./icons/bash-original.svg"/>
-<img width="50" height="50" alt="linux" src="./icons/linux-original.svg"/>
-<img width="50" height="50" alt="docker" src="./icons/icons8-docker.svg"/>
+<img width="60" height="60" alt="javascript" src="./icons/javascript-plain.svg" />
+<img width="60" height="60" alt="typescript" src="./icons/typescript-plain.svg" />
+<img width="60" height="60" alt="nestjs" src="./icons/nestjs-plain.svg" />
+<img width="60" height="60" alt="python" src="./icons/icons8-python.svg">
+<img width="60" height="60" alt="jenkins" src="./icons/icons8-jenkins.svg" />
+<img width="60" height="60" alt="argocd" src="./icons/argo-stacked-color.svg" />
+<img width="60" height="60" alt="kubernetes" src="./icons/icons8-kubernetes.svg" />
+<img width="60" height="60" alt="react" src="./icons/react-original.svg" />
+<img width="60" height="60" alt="nodejs" src="./icons/node-original.svg" />
+<img width="60" height="60" alt="azure" src="./icons/icons8-azure.svg" />
+<img width="60" height="60" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg" />
+<img width="60" height="60" alt="bash" src="./icons/bash-original.svg" />
+<img width="60" height="60" alt="linux" src="./icons/linux-original.svg" />
+<img width="60" height="60" alt="docker" src="./icons/icons8-docker.svg" />
 <br />
 <br />
 
