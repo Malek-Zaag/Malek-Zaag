@@ -41,7 +41,6 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 <img width="60" height="60" alt="nestjs" src="./icons/nestjs-plain.svg" />
 <img width="60" height="60" alt="python" src="./icons/icons8-python.svg">
 <img width="60" height="60" alt="jenkins" src="./icons/icons8-jenkins.svg" />
-<img width="60" height="60" alt="argocd" src="./icons/argo-stacked-color.svg" />
 <img width="60" height="60" alt="kubernetes" src="./icons/icons8-kubernetes.svg" />
 <img width="60" height="60" alt="react" src="./icons/react-original.svg" />
 <img width="60" height="60" alt="nodejs" src="./icons/node-original.svg" />
