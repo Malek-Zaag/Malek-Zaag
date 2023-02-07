@@ -1,13 +1,9 @@
-<!-- [![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com)
- -->
-
 ## About Me
 
 ### Hello there 👋
 
 ![Count](https://visitor-badge.laobi.icu/badge?page_id=Malek-Zaag.Malek-Zaag) [![Github](https://img.shields.io/github/followers/Malek-Zaag?label=Follow&style=social)](https://github.com/Malek-Zaag)
 
-<!-- [![Spencer's GitHub Banner](./assets/GitHubHeader.png)](https://spencerlepine.com) -->
 
 I'm Malek Zaag, I am currently in the second year of Networks and Telecommunications engineering at INSAT, I am interested in the development of web applications and their migration to the cloud domain. I am autonomous, rigorous and open to all opportunities.
 
@@ -19,24 +15,12 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 
 ![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true)
 
-<!-- Old Social Badges -->
-<!-- [![Views](https://komarev.com/ghpvc/?username=spencerlepine&style=flat)](https://github.com/spencerlepine) -->
-<!-- [![GitHub:spencerlepine](https://img.shields.io/github/followers/spencerlepine?label=follow&style=social)](https://github.com/spencerlepine) -->
-<!-- [![Twitter:spencerlepine](https://img.shields.io/twitter/follow/spencerlepine?style=social)](https://twitter.com/spencerlepine) -->
-<!-- [![Linkedin:Spencer Lepine](https://img.shields.io/badge/-Spencer_Lepine-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/spencer-lepine/)](https://www.linkedin.com/in/spencerlepine/) -->
-<!-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCBL6vAHJZqUlyJp-rcFU55Q) -->
-
-<!--
-[![LinkedIn](https://img.shields.io/badge/spencerlepine%20-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/spencerlepine/)](https://www.linkedin.com/in/spencerlepine/)
-[![GitHub](https://img.shields.io/badge/spencerlepine%20-%23121011.svg?&style=flat-square&logo=github&logoColor=white&link=https://github.com/spencerlepine)](https://github.com/spencerlepine)
-[![Salesforce](https://img.shields.io/badge/spencerlepine%20-%2300A1E0.svg?&style=flat-square&logo=salesforce&logoColor=white&link=https://trailblazer.me/id/spencerlepine)](https://trailblazer.me/id/spencerlepine)
-[![Gmail](https://img.shields.io/badge/spencerlepine%20-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white&link=mailto:hello@spencerlepine.com)](mailto:hellp@spencerlepine.com)
-[![Twitter](https://img.shields.io/badge/spencerlepine%20-%231DA1F2.svg?&style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/spencerlepine/)](https://twitter.com/spencerlepine/) -->
 
 ## Languages and Tools :
 
 <p align="left">
 <img width="60" height="60" alt="javascript" src="./icons/javascript-plain.svg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="60" height="60">
 <img width="60" height="60" alt="python" src="./icons/icons8-python.svg">
 <img width="60" height="60" alt="jenkins" src="./icons/icons8-jenkins.svg" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="60" height="60"/>
@@ -49,7 +33,6 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 <img width="60" height="60" alt="docker" src="./icons/icons8-docker.svg" />
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="60" height="60">
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="60" height="60">
 <br />
 <br />
 
