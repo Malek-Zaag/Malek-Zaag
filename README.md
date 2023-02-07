@@ -47,6 +47,9 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 <img width="60" height="60" alt="bash" src="./icons/bash-original.svg" />
 <img width="60" height="60" alt="linux" src="./icons/linux-original.svg" />
 <img width="60" height="60" alt="docker" src="./icons/icons8-docker.svg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="terraform" width="60" height="60"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="ansible" width="60" height="60">
+<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="60" height="60">
 <br />
 <br />
 
