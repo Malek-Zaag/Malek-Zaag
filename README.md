@@ -37,7 +37,6 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 <br />
 
 ## ⚡ Technologies
-<img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=6&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=fff&icon_color=fff&theme=dark" />
 
 Talk to me about:
 
