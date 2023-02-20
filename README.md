@@ -33,6 +33,8 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 <img width="60" height="60" alt="docker" src="./icons/icons8-docker.svg" />
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="60" height="60"/>
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="60" height="60">
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="60" height="60">
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="60" height="60">
 <br />
 <br />
 
