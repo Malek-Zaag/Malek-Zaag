@@ -20,7 +20,6 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 
 <p align="left">
 <img width="60" height="60" alt="javascript" src="./icons/javascript-plain.svg" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="60" height="60">
 <img width="60" height="60" alt="python" src="./icons/icons8-python.svg">
 <img width="60" height="60" alt="jenkins" src="./icons/icons8-jenkins.svg" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="60" height="60"/>
@@ -47,4 +46,3 @@ Talk to me about:
 - Robust full-stack system design implementation.
 - Learning pipelines and various **CI/CD tools**.
 - Creating scalable cloud architecture using **Azure Cloud**.
-- Solving Data structure and algorithm questions in **Java and Python**.
