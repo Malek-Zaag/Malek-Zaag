@@ -25,6 +25,7 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="60" height="60"/>
 <img width="60" height="60" alt="react" src="./icons/react-original.svg" />
 <img width="60" height="60" alt="nodejs" src="./icons/node-original.svg" />
+<img width="60" height="60" alt="aws" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" /> 
 <img width="60" height="60" alt="azure" src="./icons/icons8-azure.svg" />
 <img width="60" height="60" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg" />
 <img width="60" height="60" alt="bash" src="./icons/bash-original.svg" />
@@ -34,6 +35,7 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="60" height="60">
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="60" height="60">
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="60" height="60">
+<img width="60" height="60" alt="aws serverless" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" />
 <br />
 <br />
 
