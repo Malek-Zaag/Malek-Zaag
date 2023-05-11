@@ -26,11 +26,11 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="60" height="60"/>
 <img width="60" height="60" alt="react" src="https://www.svgrepo.com/show/452092/react.svg" />
 <img width="60" height="60" alt="java" src="https://www.svgrepo.com/show/452234/java.svg" />
-<img width="60" height="60" alt="spring boot" src="https://www.svgrepo.com/show/452234/java.svg" />
+<img width="60" height="60" alt="spring boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 <img width="60" height="60" alt="nodejs" src="./icons/node-original.svg" />
 <img width="60" height="60" alt="aws" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" /> 
 <img width="60" height="60" alt="azure" src="./icons/icons8-azure.svg" />
-<img width="60" height="60" alt="mongodb" src="./icons/mongodb-plain-wordmark.svg" />
+<img width="60" height="60" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <img width="60" height="60" alt="bash" src="./icons/bash-original.svg" />
 <img width="60" height="60" alt="linux" src="./icons/linux-original.svg" />
 <img width="60" height="60" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
