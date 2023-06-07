@@ -25,6 +25,7 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 <img width="60" height="60" alt="jenkins" src="./icons/icons8-jenkins.svg" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="60" height="60"/>
 <img width="60" height="60" alt="react" src="https://www.svgrepo.com/show/452092/react.svg" />
+<img width="60" height="60" alt="angular" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-icon.svg" />
 <img width="60" height="60" alt="java" src="https://www.svgrepo.com/show/452234/java.svg" />
 <img width="60" height="60" alt="spring boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 <img width="60" height="60" alt="nodejs" src="./icons/node-original.svg" />
