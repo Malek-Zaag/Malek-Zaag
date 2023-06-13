@@ -19,27 +19,27 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 ## Languages and Tools :
 
 <p align="left">
-<img width="60" height="60" alt="javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />
-<img width="60" height="60" alt="typescript" src="https://www.svgrepo.com/show/349540/typescript.svg" />
-<img width="60" height="60" alt="python" src="./icons/icons8-python.svg">
-<img width="60" height="60" alt="jenkins" src="./icons/icons8-jenkins.svg" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="60" height="60"/>
-<img width="60" height="60" alt="react" src="https://www.svgrepo.com/show/452092/react.svg" />
-<img width="60" height="60" alt="angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
-<img width="60" height="60" alt="java" src="https://www.svgrepo.com/show/452234/java.svg" />
-<img width="60" height="60" alt="spring boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
-<img width="60" height="60" alt="nodejs" src="./icons/node-original.svg" />
-<img width="60" height="60" alt="aws" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" /> 
-<img width="60" height="60" alt="azure" src="./icons/icons8-azure.svg" />
-<img width="60" height="60" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
-<img width="60" height="60" alt="bash" src="./icons/bash-original.svg" />
-<img width="60" height="60" alt="linux" src="./icons/linux-original.svg" />
-<img width="60" height="60" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
-<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="60" height="60"/>
-<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="60" height="60">
-<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="60" height="60">
-<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="60" height="60">
-<img width="60" height="60" alt="aws serverless" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" />
+<img width="50" height="50" alt="javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />
+<img width="50" height="50" alt="typescript" src="https://www.svgrepo.com/show/349540/typescript.svg" />
+<img width="50" height="50" alt="python" src="./icons/icons8-python.svg">
+<img width="50" height="50" alt="jenkins" src="./icons/icons8-jenkins.svg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="50" height="50"/>
+<img width="50" height="50" alt="react" src="https://www.svgrepo.com/show/452092/react.svg" />
+<img width="50" height="50" alt="angular" src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" />
+<img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/452234/java.svg" />
+<img width="50" height="50" alt="spring boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+<img width="50" height="50" alt="nodejs" src="./icons/node-original.svg" />
+<img width="50" height="50" alt="aws" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" /> 
+<img width="50" height="50" alt="azure" src="./icons/icons8-azure.svg" />
+<img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
+<img width="50" height="50" alt="bash" src="./icons/bash-original.svg" />
+<img width="50" height="50" alt="linux" src="./icons/linux-original.svg" />
+<img width="50" height="50" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
+<img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/>
+<img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="50" height="50">
+<img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50">
+<img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50">
+<img width="50" height="50" alt="aws serverless" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" />
 <br />
 <br />
 
