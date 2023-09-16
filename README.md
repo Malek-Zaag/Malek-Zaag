@@ -5,18 +5,19 @@
 [![Linkedin](https://img.shields.io/badge/-malek_zaag-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malekzaag/)[![Gmail](https://img.shields.io/badge/-malek_zaag-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zaag.malek1@gmail.com)![Count](https://visitor-badge.laobi.icu/badge?page_id=Malek-Zaag.Malek-Zaag) [![Github](https://img.shields.io/github/followers/Malek-Zaag?label=Follow&style=social)](https://github.com/Malek-Zaag)
 
 
-I'm Malek Zaag, I am currently in the second year of Networks and Telecommunications engineering at INSAT, I am interested in the development of web applications and their migration to the cloud domain. I am autonomous, rigorous and open to all opportunities.
-
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+and+DevOps+student;Network+Engineer;CyberSecurity+Enthusiast)](https://git.io/typing-svg)
 
-### How to contact me ?
+I'm Malek Zaag, I am currently in the third year of Networks and Telecommunications engineering at INSAT, I am interested in the development of web applications and their migration to the cloud domain. I am autonomous, rigorous and open to all opportunities.
 
-[<img src='https://user-images.githubusercontent.com/59792971/164092560-819298ce-c9ba-4438-a368-bd1bcd6e7389.png' alt='linkedin' height='50'>] [<img src='https://user-images.githubusercontent.com/59792971/164092047-ea3ce66e-7068-4d46-b3ea-fbac1c0cb5fd.png' alt='facebook' height='50'>](https://www.facebook.com/zaag.malek.1/) [<img src='https://user-images.githubusercontent.com/59792971/164092165-318b4325-304b-4b3e-8143-eb8906976e4d.png' alt='email' height='53'>]() [<img src='https://user-images.githubusercontent.com/59792971/164092695-39033b7c-6d7a-4519-b8d5-3a4cd59ee1bc.png' alt='Portfolio' height='47'>](https://malek-zaag.netlify.app/)
+- 🔭&nbsp;Front-end development using **HTML, Javascript, CSS, and ReactJS**.
+- 📈&nbsp;Backend development using **NodeJS**.
+- ⚡&nbsp;Creating scalable cloud architecture using **Azure Cloud**.
+- 🎯&nbsp;Learning pipelines and various **CI/CD tools**.
 
 ![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&theme=dark)
 
 
-## Languages and Tools :
+## 🛠 &nbsp; **Languages and Tools** :
 
 <p align="left">
 <img width="50" height="50" alt="javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />
@@ -42,12 +43,24 @@ I'm Malek Zaag, I am currently in the second year of Networks and Telecommunicat
 <br />
 <br />
 
-## ⚡ Technologies
 
-Talk to me about:
+---------------------------------------------------------------------------------------------------------------
+### ⚙️ &nbsp;**GitHub Analytics**
 
-- Front-end development using **HTML, Javascript, CSS, and ReactJS**.
-- Backend development using **NodeJS**.
-- Robust full-stack system design implementation.
-- Learning pipelines and various **CI/CD tools**.
-- Creating scalable cloud architecture using **Azure Cloud**.
+<p align="center">
+<a href="https://github.com/Malek-Zaag">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/username=Malek-Zaag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
+</a>
+</p>
+<p align="center">
+<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Malek-Zaag&theme=algolia"/>
+  </p>
+  <p align="center">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag&theme=algolia"/>
+  </p>
+	
+
+
+
+
+
