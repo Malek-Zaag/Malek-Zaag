@@ -14,7 +14,6 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 - ⚡&nbsp;Creating scalable cloud architecture using **Azure Cloud**.
 - 🎯&nbsp;Learning pipelines and various **CI/CD tools**.
 
-![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&theme=dark)
 
 
 ## 🛠 &nbsp; **Languages and Tools** :
@@ -48,9 +47,8 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 ### ⚙️ &nbsp;**GitHub Analytics**
 
 <p align="center">
-<a href="https://github.com/Malek-Zaag">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/username=Malek-Zaag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
-</a>
+	
+![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&theme=algolia)
 </p>
   <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag&theme=algolia"/>
