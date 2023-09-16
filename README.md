@@ -47,12 +47,11 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 ### ⚙️ &nbsp;**GitHub Analytics**
 
 <p align="center">
-	
-![Malek's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&theme=algolia)
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&theme=algolia"/>
 </p>
-  <p align="center">
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag&theme=algolia"/>
-  </p>
+<p align="center">
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag&theme=algolia"/>
+</p>
 	
 
 
