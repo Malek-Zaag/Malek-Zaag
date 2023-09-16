@@ -52,9 +52,6 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/username=Malek-Zaag&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide=prs,issues"/>
 </a>
 </p>
-<p align="center">
-<img align="center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Malek-Zaag&theme=algolia"/>
-  </p>
   <p align="center">
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag&theme=algolia"/>
   </p>
