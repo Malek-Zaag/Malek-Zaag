@@ -16,7 +16,7 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 
 
 
-## 🛠 &nbsp; **Languages and Tools** :
+## 🛠 &nbsp; Languages and Tools :
 
 <p align="left">
 <img width="50" height="50" alt="javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />
@@ -43,8 +43,7 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 <br />
 
 
----------------------------------------------------------------------------------------------------------------
-### ⚙️ &nbsp;**GitHub Analytics**
+## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&theme=algolia"/>
