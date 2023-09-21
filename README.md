@@ -15,7 +15,6 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 - 🎯&nbsp;Learning pipelines and various **CI/CD tools**.
 
 
-
 ## 🛠 &nbsp; Languages and Tools :
 
 <p align="left">
