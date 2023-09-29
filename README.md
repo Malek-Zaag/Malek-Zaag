@@ -27,6 +27,7 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 <img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/452234/java.svg" />
 <img width="50" height="50" alt="spring boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
 <img width="50" height="50" alt="nodejs" src="./icons/node-original.svg" />
+<img width="50" height="50" src="https://img.icons8.com/color/48/google-cloud.png" alt="google-cloud"/>
 <img width="50" height="50" alt="aws" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" /> 
 <img width="50" height="50" alt="azure" src="./icons/icons8-azure.svg" />
 <img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
