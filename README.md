@@ -38,7 +38,6 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="50" height="50">
 <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="Prometheus" width="50" height="50">
 <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="Grafana" width="50" height="50">
-<img width="50" height="50" alt="aws serverless" src="https://www.vectorlogo.zone/logos/amazon_awslambda/amazon_awslambda-icon.svg" />
 <br />
 <br />
 
