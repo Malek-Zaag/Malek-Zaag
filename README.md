@@ -13,7 +13,7 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 - 📈&nbsp;Backend development using **NodeJS**.
 - ⚡&nbsp;Creating scalable cloud architecture using **Azure Cloud**.
 - 🎯&nbsp;Learning pipelines and various **CI/CD tools**.
-- ☁️&nbsp; 4x Cloud Certified **(AWS ,GCP and Azure)**.
+- ☁️&nbsp; 4x Cloud Certified **(AWS, GCP and Azure)**.
 
 ## 🛠 &nbsp; Languages and Tools :
 
