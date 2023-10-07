@@ -23,12 +23,8 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 <img width="50" height="50" alt="python" src="./icons/icons8-python.svg">
 <img width="50" height="50" alt="jenkins" src="./icons/icons8-jenkins.svg" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="50" height="50"/>
-<!-- <img width="50" height="50" alt="react" src="https://www.svgrepo.com/show/452092/react.svg" />
-<img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/452234/java.svg" />
-<img width="50" height="50" alt="spring boot" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
-<img width="50" height="50" alt="nodejs" src="./icons/node-original.svg" /> -->
 <img width="50" height="50" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="google-cloud"/>
-<img width="50" height="50" alt="aws" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" /> 
+<img width="50" height="50" alt="aws" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" /> 
 <img width="50" height="50" alt="azure" src="./icons/icons8-azure.svg" />
 <img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <img width="50" height="50" alt="bash" src="./icons/bash-original.svg" />
