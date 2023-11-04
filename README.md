@@ -44,7 +44,7 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&include_all_commits=true"/>
 </p>
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=Malek-Zaag&layout=compact"/>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&layout=compact"/>
 </p> 
 	
 
