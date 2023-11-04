@@ -44,8 +44,6 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&theme=algolia"/>
 </p>
 <p align="center">
-	![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
-<!-- 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag&theme=algolia"/> -->
 	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/api/top-langs/?username=Malek-Zaag&layout=compact"/>
 </p> 
 	
