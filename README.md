@@ -28,7 +28,7 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 <img width="50" height="50" alt="azure" src="./icons/icons8-azure.svg" />
 <img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 
-<img width="50" height="50" alt="golang" src="https://www.svgrepo.com/show/355038/golang.svg" />
+<img width="50" height="50" alt="golang" src="https://www.svgrepo.com/show/373635/go-gopher.svg" />
 <img width="50" height="50" alt="bash" src="https://github.com/Louaykharouf26/Louaykharouf26/blob/main/icons/linux-svgrepo-com.svg" /> 
 <img width="50" height="50" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
 <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="50" height="50"/>
