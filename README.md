@@ -27,7 +27,7 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 </p>
 
 
-⭐️ From [@AdminTurnedDevOps](https://github.com/adminturneddevops)
+⭐️ From [Malek-Zaag]([https://github.com/adminturneddevops](https://github.com/Malek-Zaag))
 
 <!-- <img width="50" height="50" alt="javascript" src="https://www.svgrepo.com/show/349419/javascript.svg" />
 <img width="50" height="50" alt="typescript" src="https://www.svgrepo.com/show/349540/typescript.svg" />
