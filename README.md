@@ -17,7 +17,7 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 
 <h3> 🤝🏻 Connect with Me </h3>
 <p align="center">
-<a href="https://malek-zaag.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/badge/Website-malek-zaag.netlify.app-blue?style=flat&logo=google-chrome"></a>
+<a href="https://malek-zaag.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/website?url=malek-zaag.netlify.app"></a>
 <a href="https://www.linkedin.com/in/malekzaag/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-malek_zaag-blue?style=flat&logo=Linkedin&logoColor=white"></a>
 <a href="https://github.com/Malek-Zaag"><img alt="Email" src="https://img.shields.io/github/followers/Malek-Zaag?label=Follow&style=social"></a>
 <a href="mailto:zaag.malek1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-malek_zaag-c14438?style=flat&logo=Gmail&logoColor=white"></a>
