@@ -22,14 +22,6 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
 <a href="https://github.com/Malek-Zaag"><img alt="Email" src="https://img.shields.io/github/followers/Malek-Zaag?label=Follow&style=social"></a>
 <a href="mailto:zaag.malek1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-malek_zaag-c14438?style=flat&logo=Gmail&logoColor=white"></a>
 </p>
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&include_all_commits=true&show_icons=true"/>
-</p>
-<p align="center">
-	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&layout=compact"/>
-</p> 
 
 ⭐️ From [Malek-Zaag](https://github.com/Malek-Zaag)
 
