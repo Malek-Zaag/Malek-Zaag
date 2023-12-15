@@ -1,4 +1,4 @@
-### Hi there 👋 I am [Malek](https://malek-zaag.netlify.app/) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> I am [Malek](https://malek-zaag.netlify.app/) 
 
 [![Linkedin](https://img.shields.io/badge/-malek_zaag-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/malekzaag/)[![Gmail](https://img.shields.io/badge/-malek_zaag-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:zaag.malek1@gmail.com)![Count](https://visitor-badge.laobi.icu/badge?page_id=Malek-Zaag.Malek-Zaag) [![Github](https://img.shields.io/github/followers/Malek-Zaag?label=Follow&style=social)](https://github.com/Malek-Zaag)
 
