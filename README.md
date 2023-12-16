@@ -5,7 +5,7 @@
 I'm Malek Zaag, I am currently in the third year of Networks and Telecommunications engineering at INSAT, I am interested in the development of web applications and their migration to the cloud domain. I am autonomous, rigorous and open to all opportunities. 
   
 - 💬 Ask me about anything and everything!
-- 📈&nbsp;Backend development using **NodeJS**.
+- 📈&nbsp;Backend developmentusing **NodeJS**.
 - ⚡&nbsp;Creating scalable cloud architecture using **Azure Cloud**.
 - 🎯&nbsp;Learning pipelines and various **CI/CD tools**.
 - ☁️&nbsp;4x Cloud Certified **(AWS, GCP and Azure)**.
