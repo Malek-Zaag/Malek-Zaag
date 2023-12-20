@@ -28,7 +28,6 @@ I'm Malek Zaag, I am currently in the third year of Networks and Telecommunicati
  <div align="center">
 
  <img align="center" src="https://streak-stats.demolab.com/?user=Malek-Zaag" alt="Gift's LangStat" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Malek-Zaag&langs_count=8&layout=compact&theme=light&size_weight=0.5&count_weight=0.5" alt="Gift's language" height="192px"  width="300px"/>
 
 
 </div>
