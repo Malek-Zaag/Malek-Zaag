@@ -7,8 +7,9 @@
    
  - 💬 Ask me about anything and everything!
  - 📈&nbsp;Backend development using **NodeJS, Python and Golang**.
- - ⚡&nbsp;Creating scalable cloud architecture using **Azure Cloud**.
+ - ⚡&nbsp;Creating scalable cloud architecture using **AWS And Azure Cloud**.
  - 🎯&nbsp;Learning pipelines and various **CI/CD tools**.
+ - ☸️ Diving deep in **Kubernetes** World.
  - ☁️&nbsp;4x Cloud Certified **(AWS, GCP and Azure)**.
  - 🖊&nbsp;Currently learning **Newest DevOps CI/CD Tools (Azure DevOps and GitHub Actions)**.  
 
