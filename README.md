@@ -29,7 +29,7 @@
 ## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 29px> My GitHub Stats 
  <div align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=Malek-Zaag" alt="Gift's LangStat" /> 
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Malek-Zaag&langs_count=8&layout=compact&theme=light&size_weight=0&count_weight=1" alt="Gift's language" height="192px"  width="300px"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Malek-Zaag&langs_count=8&layout=compact&theme=light&size_weight=1&count_weight=0" alt="Gift's language" height="192px"  width="300px"/>
 </div>
 
 <!--   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag" alt="Gift's LangStat" /> -->
