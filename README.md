@@ -32,7 +32,7 @@
   <img align="center" src="https://streak-stats.demolab.com/?user=Malek-Zaag" alt="Gift's LangStat" /> 
 </div>
 
-## 🔨 Languages and Tools
+## 🔨 Langages and Tools
 
 
 
