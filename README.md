@@ -4,7 +4,8 @@
 <div>
  <p>
  I'm Malek Zaag, I am currently in the third year of Networks and Telecommunications engineering at INSAT, I am interested in the development of web applications and their migration to the cloud domain. I am autonomous, rigorous and open to all opportunities. 
-   
+
+## 🧐 More About Me
  - 💬 Ask me about anything and everything!
  - 👨‍💻 Backend development using **NodeJS, Python and Golang**.
  - ⚡ Creating scalable cloud architecture using **AWS And Azure Cloud**.
@@ -26,10 +27,12 @@
 </p>
 
 
-## <img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width = 29px> My GitHub Stats 
+## 📊 Github Stats
  <div align="center">
   <img align="center" src="https://streak-stats.demolab.com/?user=Malek-Zaag" alt="Gift's LangStat" /> 
 </div>
+
+## 🔨 Languages and Tools
 
 
 
