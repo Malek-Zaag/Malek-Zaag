@@ -33,6 +33,7 @@
 </div>
 
 ## 🔨 Languages and Tools
+
 <p align="left">
 <img width="50" height="50" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="google-cloud"/>
 <img width="50" height="50" alt="aws" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" /> 
