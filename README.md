@@ -29,8 +29,9 @@
 
 ## 📊 Github Stats
  <div align="center">
-  <img align="center" src="https://streak-stats.demolab.com/?user=Malek-Zaag" alt="Gift's LangStat" /> 
-</div>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true&include_all_commits=true" alt="Gift's LangStat" /> 
+<!--   <img align="center" src="https://streak-stats.demolab.com/?user=Malek-Zaag" alt="Gift's LangStat" /> 
+</div> -->
 
 ## 🔨 Languages and Tools
 
