@@ -54,7 +54,7 @@
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="50" height="50" />
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="50" height="50" />
 
 
