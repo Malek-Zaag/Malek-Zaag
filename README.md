@@ -52,6 +52,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg" width="50" height="50" />
+<img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="50" height="50" />
 
 
 
