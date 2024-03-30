@@ -44,7 +44,6 @@
 <img width="50" height="50" alt="aws" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" /> 
 <img width="50" height="50" alt="azure" src="./icons/icons8-azure.svg" />
 <img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" /> 
-<img width="50" height="50" alt="golang" src="https://www.svgrepo.com/show/373635/go-gopher.svg" />
 <img width="50" height="50" alt="bash" src="https://github.com/Louaykharouf26/Louaykharouf26/blob/main/icons/linux-svgrepo-com.svg" /> 
 <img width="50" height="50" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="50" height="50"/> 
@@ -54,6 +53,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
 <img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/452234/java.svg" />
+<img width="50" height="50" alt="golang" src="https://www.svgrepo.com/show/373635/go-gopher.svg" />
 <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" />
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="50" height="50" />
