@@ -44,10 +44,14 @@
 <img width="50" height="50" alt="aws" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" /> 
 <img width="50" height="50" alt="azure" src="./icons/icons8-azure.svg" />
 <img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" /> 
-<img width="50" height="50" alt="bash" src="https://github.com/Louaykharouf26/Louaykharouf26/blob/main/icons/linux-svgrepo-com.svg" /> 
+<img width="50" height="50" alt="bash" src="https://icon.icepanel.io/Technology/svg/Linux.svg" /> 
 <img width="50" height="50" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="50" height="50"/> 
 <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="50" height="50"/> 
+<img src="https://icon.icepanel.io/Technology/svg/Flask.svg" width="50" height="50"/> 
+<img src="https://icon.icepanel.io/Technology/svg/Elastic-Search.svg" width="50" height="50"/> 
+<img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" width="50" height="50"/> 
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" />
