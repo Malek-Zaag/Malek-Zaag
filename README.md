@@ -48,7 +48,6 @@
 <img width="50" height="50" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="50" height="50"/> 
 <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="50" height="50"/> 
-<img src="https://icon.icepanel.io/Technology/svg/Flask.svg" width="50" height="50"/> 
 <img src="https://icon.icepanel.io/Technology/svg/Elastic-Search.svg" width="50" height="50"/> 
 <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" width="50" height="50"/> 
 <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="50" height="50"/> 
@@ -58,6 +57,5 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
 <img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/452234/java.svg" />
 <img width="50" height="50" alt="golang" src="https://www.svgrepo.com/show/373635/go-gopher.svg" />
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50" />
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="50" height="50" />
