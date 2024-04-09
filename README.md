@@ -10,7 +10,7 @@
 ## 🧐 More About Me
  - 💬 Ask me about anything and everything!
  - 👨‍💻 Backend development using **Javascript, Python and Golang**.
- - 🐧 Practising **Bash scripting**
+ - 🐧 Practising **Bash scripting**.
  - ⚡ Creating scalable cloud architecture using **AWS And Azure Cloud**.
  - 🥅 Working on **Various Topics and Projects**.
  - ☸️ Diving deep in **Kubernetes** World.
