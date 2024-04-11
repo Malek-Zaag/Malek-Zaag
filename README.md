@@ -53,8 +53,8 @@
 <img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" width="50" height="50"/> 
 <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="50" height="50"/> 
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" />
+<!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/>
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" /> -->
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
 <img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/184143/java.svg" />
 <img width="50" height="50" alt="golang" src="https://www.svgrepo.com/show/373635/go-gopher.svg" />
