@@ -5,17 +5,42 @@
 
 <div>
  <p>
- I'm Malek Zaag, I am currently in the third year of Networks and Telecommunications engineering at INSAT, I am interested in the development of web applications and their migration to the cloud domain. I am autonomous, rigorous and open to all opportunities. 
+👨‍💻 I'm Malek Zaag, I am a Cloud/DevOps Engineer.
 
-## 🧐 More About Me
- - 💬 Ask me about anything and everything!
- - 👨‍💻 Backend development using **Javascript, Python and Java**.
- - 🐧 Practising **Bash scripting**.
- - ⚡ Creating scalable cloud architecture using **AWS And Azure Cloud**.
- - 🥅 Working on **Various Topics and Projects**.
- - ☸️ Diving deep in **Kubernetes** World.
- - 🏆 4x Cloud Certified **(AWS, GCP and Azure)**.
- - 🌱 Currently learning **Newest DevOps CI/CD Tools (Azure DevOps and GitHub Actions)**.  
+
+🔭 I have interest on Dev{Sec}Ops & Cloud Native projects. I am Kubernetes Enthusiast and Tech Storyteller.
+
+💬 Ask me about anything and everything!
+
+
+👨‍💻 Backend development using NodeJS, Python and Golang.
+
+
+⚡ Creating scalable cloud architecture using AWS And Azure Cloud.
+
+
+🥅 Working on Various Topics and Projects.
+
+
+☸️ Diving deep in Kubernetes World.
+
+
+🏆 4x Cloud Certified (AWS, GCP and Azure).
+
+
+🌱 Currently learning Newest DevOps CI/CD Tools (Azure DevOps and GitHub Actions).
+
+
+📫 Reach out on:
+
+
+Twitter: https://twitter.com/MalekZaag
+
+Linkedin: https://www.linkedin.com/in/malekzaag
+
+Reddit: https://www.reddit.com/user/
+
+Stackoverflow: https://stackoverflow.com/users/
 
  </p>
 </div>
