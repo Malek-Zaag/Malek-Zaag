@@ -3,6 +3,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+and+DevOps+student;Network+Engineer;CyberSecurity+Enthusiast)](https://git.io/typing-svg)
 
+<img width="300" src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif"/>
+
 <div>
  <p>
 👨‍💻 I'm Malek Zaag, I am a Cloud/DevOps Engineer.
