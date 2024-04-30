@@ -45,14 +45,6 @@ Stackoverflow: https://stackoverflow.com/users/
  </p>
 </div>
 
-## 🤝🏻 Connect with Me 
-<p align="center">
- <img src="https://komarev.com/ghpvc/?username=Malek-Zaag&label=Profile%20views&color=0e75b6&style=flat" alt="malek-zaag" />
- <a href="https://malek-zaag.netlify.app/" target="_blank"><img alt="Website" src="https://img.shields.io/website?url=https://malek-zaag.netlify.app"></a>
- <a href="https://www.linkedin.com/in/malekzaag/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-malek_zaag-blue?style=flat&logo=Linkedin&logoColor=white"></a>
- <a href="https://github.com/Malek-Zaag"><img alt="Email" src="https://img.shields.io/github/followers/Malek-Zaag?label=Follow&style=social"></a>
- <a href="mailto:zaag.malek1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-malek_zaag-c14438?style=flat&logo=Gmail&logoColor=white"></a>
-</p>
 
 
 ## 📊 Github Stats
