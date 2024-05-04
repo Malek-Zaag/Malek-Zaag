@@ -3,7 +3,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+and+DevOps+student;Network+Engineer;CyberSecurity+Enthusiast)](https://git.io/typing-svg)
 
-<img width="300" src="https://github.com/sumanentc/sumanentc/blob/master/assets/minion.gif"/>
+
+<div align="center" > <img src="https://user-images.githubusercontent.com/74038190/212746035-d5c61762-973c-44c0-aec7-887f3b7690e3.gif" width="300"> </div>
+<br><br>
 
 <div>
  <p>
