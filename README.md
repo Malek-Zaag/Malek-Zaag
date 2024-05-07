@@ -48,7 +48,7 @@
   
   - 🥇 Credly: https://www.credly.com/users/malek-zaag
 
-  - 📈 Stackoverflow: https://stackoverflow.com/users/"><
+  - 📈 Stackoverflow: https://stackoverflow.com/users/">
 
  </p>
 </div>
