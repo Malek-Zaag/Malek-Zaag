@@ -35,16 +35,17 @@
 🌱 Currently learning Newest DevOps CI/CD Tools (Azure DevOps and GitHub Actions).
 
 
+
+
+ 
+
 📫 Reach out on:
 
+<a href="https://twitter.com/MalekZaag"><img src="https://user-images.githubusercontent.com/74038190/235294011-b8074c31-9097-4a65-a594-4151b58743a8.gif" width="50"></img></a>
+<a href="https://www.linkedin.com/in/malekzaag"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif" width="50"></img></a>
+<a href="https://www.reddit.com/user/"><img src="" width="50"></img></a>
+<a href="https://stackoverflow.com/users/"><img src="" width="50"></img></a>
 
-Twitter: https://twitter.com/MalekZaag
-
-Linkedin: https://www.linkedin.com/in/malekzaag
-
-Reddit: https://www.reddit.com/user/
-
-Stackoverflow: https://stackoverflow.com/users/
 
  </p>
 </div>
