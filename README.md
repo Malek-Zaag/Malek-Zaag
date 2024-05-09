@@ -80,6 +80,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" /> 
 <img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/184143/java.svg" />
 <img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="nestjs" width="50" height="50"/>
+<img src="https://raw.githubusercontent.com/ansible/logos/1c8390f5d6240aaf80e50b6c900372b8a9908d06/vscode-ansible.svg" alt="sass" width="50" height="50"/> 
 <!-- <img width="50" height="50" alt="golang" src="https://www.svgrepo.com/show/373635/go-gopher.svg" />
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" /> -->
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="50" height="50" />
