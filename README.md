@@ -57,7 +57,7 @@
 
 ## 📊 Github Stats
  <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8" alt="Gift's LangStat" /> 
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8" alt="Gift's LangStat" /> 
 <p><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8&size_weight=0&count_weight=1"></p>
 <p style="margin:3rem;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag&theme=solarized-light&hide_border=true&background=FFFFFF00" /></p>
 <!--   <img align="center" src="https://streak-stats.demolab.com/?user=Malek-Zaag" alt="Gift's LangStat" /> 
@@ -79,7 +79,7 @@
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50" />
 <img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" /> 
 <img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/184143/java.svg" />
-<img width="50" alt="golang" src="https://cdn.worldvectorlogo.com/logos/go-8.svg"/>
+<img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="nestjs" width="50" height="50"/>
 <!-- <img width="50" height="50" alt="golang" src="https://www.svgrepo.com/show/373635/go-gopher.svg" />
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" /> -->
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="50" height="50" />
