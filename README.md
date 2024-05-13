@@ -66,22 +66,22 @@
 ## 🔨 Languages and Tools
 
 <p align="left">
-<img width="50" height="50" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="google-cloud"/>
-<img width="50" height="50" alt="aws" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" /> 
-<img width="50" height="50" alt="azure" src="./icons/icons8-azure.svg" />
-<img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" /> 
-<img width="50" height="50" alt="bash" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" /> 
-<img width="50" height="50" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="50" height="50"/> 
-<img src="https://icon.icepanel.io/Technology/svg/Elastic-Search.svg" width="50" height="50"/> 
-<img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" width="50" height="50"/> 
-<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="50" height="50"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50" />
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50" /> 
-<img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/184143/java.svg" />
-<img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="nestjs" width="50" height="50"/>
-<img src="https://raw.githubusercontent.com/ansible/logos/1c8390f5d6240aaf80e50b6c900372b8a9908d06/vscode-ansible.svg" alt="sass" width="50" height="50"/> 
-<!-- <img width="50" height="50" alt="golang" src="https://www.svgrepo.com/show/373635/go-gopher.svg" />
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="50" height="50" /> -->
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="50" height="50" />
+<img width="40" height="40" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="google-cloud"/>
+<img width="40" height="40" alt="aws" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" /> 
+<img width="40" height="40" alt="azure" src="./icons/icons8-azure.svg" />
+<img width="40" height="40" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" /> 
+<img width="40" height="40" alt="bash" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" /> 
+<img width="40" height="40" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="40" height="40"/> 
+<img src="https://icon.icepanel.io/Technology/svg/Elastic-Search.svg" width="40" height="40"/> 
+<img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" width="40" height="40"/> 
+<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="40" height="40"/> 
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40" height="40" />
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40" /> 
+<img width="40" height="40" alt="java" src="https://www.svgrepo.com/show/184143/java.svg" />
+<img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="nestjs" width="40" height="40"/>
+<img src="https://github.com/ansible/logos/blob/main/vscode-ansible-logo/vscode-ansible.png" width="40" height="40"/> 
+<!-- <img width="40" height="40" alt="golang" src="https://www.svgrepo.com/show/373635/go-gopher.svg" />
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" /> -->
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="40" height="40" />
  -->
