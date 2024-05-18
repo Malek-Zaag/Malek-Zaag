@@ -29,7 +29,7 @@
 ☸️ Diving deep in Kubernetes World.
 
 
-🏆 4x Cloud Certified (AWS, GCP and Azure).
+🏆 5x Cloud Certified (AWS, GCP and Azure).
 
 
 🌱 Currently learning Newest DevOps CI/CD Tools (Azure DevOps and GitHub Actions).
