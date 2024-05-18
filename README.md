@@ -60,8 +60,6 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8" alt="Gift's LangStat" /> 
 <p><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8&size_weight=0&count_weight=1"></p>
 <p style="margin:3rem;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag&theme=solarized-light&hide_border=true&background=FFFFFF00" /></p>
-<!--   <img align="center" src="https://streak-stats.demolab.com/?user=Malek-Zaag" alt="Gift's LangStat" /> 
-</div> -->
 
 ## 🔨 Languages and Tools
 
@@ -73,16 +71,13 @@
 <img width="40" height="40" alt="bash" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" /> 
 <img width="40" height="40" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="40" height="40"/> 
-<img src="https://icon.icepanel.io/Technology/svg/Elastic-Search.svg" width="40" height="40"/> 
-<img src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" width="40" height="40"/> 
-<img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" width="40" height="40"/> 
-<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="40" height="40" />
-<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="40" height="40" /> 
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg"alt="terraform"  />
+<img width="40" height="40" src="https://github.com/ansible/logos/blob/main/vscode-ansible-logo/vscode-ansible.png" alt="ansible" /> 
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Elastic-Search.svg" /> 
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" /> 
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" /> 
+<img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"  />
+<img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"  /> 
 <img width="40" height="40" alt="java" src="https://www.svgrepo.com/show/184143/java.svg" />
-<img src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="nestjs" width="40" height="40"/>
-<img src="https://github.com/ansible/logos/blob/main/vscode-ansible-logo/vscode-ansible.png" alt="ansible" width="40" height="40"/> 
-<img src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg"alt="terraform" width="40" height="40" />
-<!-- <img width="40" height="40" alt="golang" src="https://www.svgrepo.com/show/373635/go-gopher.svg" />
-<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" /> -->
-<!-- <img src="https://cdn.worldvectorlogo.com/logos/gitlab.svg" width="40" height="40" />
- -->
+<img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="nestjs" />
+
