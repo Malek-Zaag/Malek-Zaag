@@ -75,9 +75,9 @@
 <img width="40" height="40" src="https://github.com/ansible/logos/blob/main/vscode-ansible-logo/vscode-ansible.png" alt="ansible" /> 
 <img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Elastic-Search.svg" /> 
 <img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" /> 
-<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" /> 
-<img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"  />
-<img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"  /> 
+<img width="40" height="40" src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" />
+<img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"  />
 <img width="40" height="40" alt="java" src="https://www.svgrepo.com/show/184143/java.svg" />
+<img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg"  />
 <img width="40" height="40" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="nestjs" />
 
