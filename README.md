@@ -64,20 +64,20 @@
 ## 🔨 Languages and Tools
 
 <p align="left">
-<img width="50" height="50" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="google-cloud"/>
-<img width="50" height="50" alt="aws" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" /> 
-<img width="50" height="50" alt="azure" src="./icons/icons8-azure.svg" />
-<img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" /> 
-<img width="50" height="50" alt="bash" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" /> 
-<img width="50" height="50" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="50" height="50"/> 
-<img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg"alt="terraform"  />
-<img width="50" height="50" src="https://github.com/ansible/logos/blob/main/vscode-ansible-logo/vscode-ansible.png" alt="ansible" /> 
-<img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/Elastic-Search.svg" /> 
-<img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" /> 
-<img width="50" height="50" src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" />
-<img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"  />
-<img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/184143/java.svg" />
-<img width="50" height="50" src="https://www.svgrepo.com/show/349419/javascript.svg"  />
-<img width="50" height="50" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="nestjs" />
+<img width="47" height="47" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="google-cloud"/>
+<img width="47" height="47" alt="aws" src="https://static-00.iconduck.com/assets.00/aws-icon-2048x2048-274bm1xi.png" /> 
+<img width="47" height="47" alt="azure" src="./icons/icons8-azure.svg" />
+<img width="47" height="47" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" /> 
+<img width="47" height="47" alt="bash" src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Bash_Logo_Colored.svg" /> 
+<img width="47" height="47" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="47" height="47"/> 
+<img width="47" height="47" src="https://icon.icepanel.io/Technology/svg/HashiCorp-Terraform.svg"alt="terraform"  />
+<img width="47" height="47" src="https://github.com/ansible/logos/blob/main/vscode-ansible-logo/vscode-ansible.png" alt="ansible" /> 
+<img width="47" height="47" src="https://icon.icepanel.io/Technology/svg/Elastic-Search.svg" /> 
+<img width="47" height="47" src="https://icon.icepanel.io/Technology/svg/Prometheus.svg" /> 
+<img width="47" height="47" src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" />
+<img width="47" height="47" src="https://cdn.worldvectorlogo.com/logos/python-5.svg"  />
+<img width="47" height="47" alt="java" src="https://www.svgrepo.com/show/184143/java.svg" />
+<img width="47" height="47" src="https://www.svgrepo.com/show/349419/javascript.svg"  />
+<img width="47" height="47" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" alt="nestjs" />
 
