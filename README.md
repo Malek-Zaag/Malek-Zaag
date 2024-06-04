@@ -57,8 +57,8 @@
 
 ## 📊 Github Stats
  <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&hide=html,javascript&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8" alt="Gift's LangStat" /> 
-<p><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8&size_weight=1&count_weight=1"></p>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8" alt="Gift's LangStat" /> 
+<p><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&layout=compact&hide_border=true&theme=solarized-light&bg_color=00000000&langs_count=8&size_weight=1&count_weight=1&hide=html,javascript"></p>
 <p style="margin:3rem;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag&theme=solarized-light&hide_border=true&background=FFFFFF00" /></p>
 
 ## 🔨 Languages and Tools
