@@ -1,8 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Malek Zaag</h1> 
 
-<br><br>
-
 <div>
  <p>
 👨‍💻 I'm Malek Zaag, I am a Cloud/DevOps Engineer.
@@ -25,7 +23,7 @@
 
 <br/>
 
-📫 Reach out on:
+📫 Reach out on: 
 
   - 🐦 Twitter : https://twitter.com/MalekZaag
   
@@ -45,8 +43,12 @@
 
 
 ## 📊 Github Stats
- <div align="center">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&langs_count=8" alt="Gift's LangStat" /> 
-<p><img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&layout=compact&hide_border=true&langs_count=8&size_weight=1&count_weight=1&hide=html,makefile"></p>
+<div align="center">
+ 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&langs_count=8)
+
+![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&layout=compact&hide_border=true&langs_count=8&size_weight=1&count_weight=1&hide=html,makefile)
+
 <p style="margin:3rem;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag&hide_border=true" /></p>
+
 
