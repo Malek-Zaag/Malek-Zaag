@@ -1,48 +1,17 @@
+### Welcome to my profile 👋
 
-<h1 align="center">Hi 👋, I'm Malek Zaag</h1> 
+I'm Malek Zaag, I am a Cloud/DevOps Engineer.I have interest on Dev{Sec}Ops & Cloud Native projects. I am Kubernetes Enthusiast and Tech Storyteller.
 
-<div>
- <p>
-👨‍💻 I'm Malek Zaag, I am a Cloud/DevOps Engineer.
+I am Currently learning Newest DevOps CI/CD Tools along with Kubernetes stuff. I am into : 
+- Cloud
+- Kubernetes
+- Programming
+- Cryptography
 
-🔭 I have interest on Dev{Sec}Ops & Cloud Native projects. I am Kubernetes Enthusiast and Tech Storyteller.
+📫 How to reach me: zaag.malek1@gmail.com.<br>
 
-💬 Ask me about anything and everything!
+**Stats**
 
-👨‍💻 Backend development using java, Python and Golang.
-
-⚡ Creating scalable cloud architecture using AWS And Azure Cloud.
-
-🥅 Working on Various Topics and Projects.
-
-☸️ Diving deep in Kubernetes World.
-
-🏆 5x Cloud Certified (AWS, GCP and Azure).
-
-🌱 Currently learning Newest DevOps CI/CD Tools (Azure DevOps and GitHub Actions).
-
-<br/>
-
-📫 Reach out on: 
-
-  - 🐦 Twitter : https://twitter.com/MalekZaag
-  
-  - 📘 Linkedin : https://www.linkedin.com/in/malekzaag
-  
-  - 🔖 Reddit : https://www.reddit.com/user/
-  
-  - 📑 Medium: https://medium.com/@malek.zaag
-  
-  - 🥇 Credly: https://www.credly.com/users/malek-zaag
-
-  - 📈 Stackoverflow: https://stackoverflow.com/users/
-
- </p>
-</div>
-
-
-
-## 📊 Github Stats
 <div align="center">
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&langs_count=8)
