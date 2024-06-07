@@ -2,7 +2,7 @@
 
 I'm Malek Zaag, I am a Cloud/DevOps Engineer.I have interest on Dev{Sec}Ops & Cloud Native projects. I am Kubernetes Enthusiast and Tech Storyteller.
 
-I am Currently learning Newest DevOps CI/CD Tools along with Kubernetes stuff. I am into : 
+I love learning new things, right now, I'm on: : 
 - Cloud
 - Kubernetes
 - Programming
