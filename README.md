@@ -10,7 +10,7 @@
 
 💬 Ask me about anything and everything!
 
-👨‍💻 Backend development using java, Python and Golang.
+👨‍💻 Backend development using Java, Golang and Python.
 
 ⚡ Creating scalable cloud architecture using AWS And Azure Cloud.
 
