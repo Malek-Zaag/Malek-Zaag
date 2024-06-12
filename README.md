@@ -1,23 +1,43 @@
 ### Welcome to my profile 👋
-
-👨‍💻 I'm Malek Zaag, I am a Cloud/DevOps Engineer. I have interest on Dev{Sec}Ops & Cloud Native projects. I am Kubernetes Enthusiast and Tech Storyteller.
-
-I love learning new things, right now, I'm on: :
-- Cloud
-- Kubernetes
-- Programming
-- Cryptography
+<br/>
+<div>
+ <p>
+👨‍💻 I'm Malek Zaag, I am a Cloud/DevOps Engineer.
 
 🔭 I have interest on Dev{Sec}Ops & Cloud Native projects. I am Kubernetes Enthusiast and Tech Storyteller.
 
-👨‍💻 Backend development using Java, Python and Golang.
+🌱 I love learning new things, right now, I'm on Cloud, Kubernetes, Programming and Cryptography
+
+💬 Ask me about anything and everything!
+
+👨‍💻 Backend development using java, Python and Golang.
+
+⚡ Creating scalable cloud architecture using AWS And Azure Cloud.
+
+🥅 Working on Various Topics and Projects.
 
 ☸️ Diving deep in Kubernetes World.
 
 🏆 5x Cloud Certified (AWS, GCP and Azure).
 
-📫 How to reach me: zaag.malek1@gmail.com.
+<br/>
 
+📫 Reach out on: 
+
+  - 🐦 Twitter : https://twitter.com/MalekZaag
+  
+  - 📘 Linkedin : https://www.linkedin.com/in/malekzaag
+  
+  - 🔖 Reddit : https://www.reddit.com/user/
+  
+  - 📑 Medium: https://medium.com/@malek.zaag
+  
+  - 🥇 Credly: https://www.credly.com/users/malek-zaag
+
+  - 📈 Stackoverflow: https://stackoverflow.com/users/
+
+ </p>
+</div>
 
 **Stats**
 
