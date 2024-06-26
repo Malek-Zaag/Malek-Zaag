@@ -27,14 +27,10 @@
   - 🐦 Twitter : https://twitter.com/MalekZaag
   
   - 📘 Linkedin : https://www.linkedin.com/in/malekzaag
-  
-  - 🔖 Reddit : https://www.reddit.com/user/
-  
+    
   - 📑 Medium: https://medium.com/@malek.zaag
   
   - 🥇 Credly: https://www.credly.com/users/malek-zaag
-
-  - 📈 Stackoverflow: https://stackoverflow.com/users/
 
  </p>
 </div>
