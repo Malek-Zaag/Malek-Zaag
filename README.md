@@ -35,13 +35,11 @@
  </p>
 </div>
 
-**Stats**
 
 <div align="center">
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&langs_count=8)
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag&hide_border=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&hide=javascript,html&layout=compact)](https://github.com/Malek-Zaag/github-readme-stats)
 
