@@ -36,8 +36,14 @@
 </div>
 
 
+<details open>
+  <summary>📊GitHub Stats</summary>
+  
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&langs_count=5&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&langs_count=5&theme=radical&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+
 <div align="center">
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&langs_count=8)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag)
