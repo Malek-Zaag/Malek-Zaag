@@ -21,9 +21,11 @@
 🏆 5x Cloud Certified (AWS, GCP and Azure).
 
 <br/>
+<details open>
 
-📫 Reach out on: 
-
+<summary>📫 Reach out on: </summary>
+ <br/>
+ 
   - 🐦 Twitter : https://twitter.com/MalekZaag
   
   - 📘 Linkedin : https://www.linkedin.com/in/malekzaag
@@ -34,7 +36,7 @@
 
  </p>
 </div>
-
+</details>
 
 <details open>
   <summary>📊GitHub Stats</summary>
