@@ -1,7 +1,10 @@
 ### Welcome to my profile 👋
 <br/>
 
-<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+<div align="center">
+ <img align="center" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+
+</div>
 
 <div>
 <p>
@@ -41,17 +44,13 @@
  </p>
 </div>
 </details>
-
+<!---
 <br/>
 <details open>
   <summary>📊GitHub Stats</summary>
-  <br/>
-  
+  <br/> 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&langs_count=5&theme=white)](https://github.com/anuraghazra/github-readme-stats)
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malek-Zaag&count_private=true&show_icons=true&layout=compact&hide_border=true&langs_count=5&theme=white&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 </details>
-
 <div align="center">
- 
-
+-->
