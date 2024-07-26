@@ -1,4 +1,4 @@
-### Welcome to my profile 👋
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Welcome to my profile 
 <br/>
 
 <div align="center">
@@ -6,8 +6,7 @@
 
 </div>
 
-<div>
-<p>
+
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Malek-Zaag&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
 
 👨‍💻 I'm Malek Zaag, I am a Cloud/DevOps Engineer.
