@@ -1,7 +1,12 @@
 ### Welcome to my profile 👋
 <br/>
+
+<img align="right" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+
 <div>
 <p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Malek-Zaag&label=Profile%20views&color=0e75b6&style=flat" alt="amanpathak-devops" /> </p>
+
 👨‍💻 I'm Malek Zaag, I am a Cloud/DevOps Engineer.
 
 🔭 I have interest on Dev{Sec}Ops & Cloud Native projects. I am Kubernetes Enthusiast and Tech Storyteller.
