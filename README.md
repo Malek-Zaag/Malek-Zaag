@@ -1,4 +1,4 @@
-## 👋 Hello, I' Malek
+## 👋 Hello, I am Malek
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+and+DevOps+student;Network+Engineer;CyberSecurity+Enthusiast)](https://git.io/typing-svg)
