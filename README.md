@@ -1,8 +1,11 @@
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Welcome to my profile 
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi I am Malek 
 <br/>
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+and+DevOps+student;Network+Engineer;CyberSecurity+Enthusiast)](https://git.io/typing-svg)
+
 <div align="center">
- <img align="center" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
+
+<img align="center" alt="Scripting" width="400" src="https://cdn.dribbble.com/userupload/7725640/file/original-a2b82ab8779ece4c49df3672f7753ccb.gif">
 
 </div>
 
