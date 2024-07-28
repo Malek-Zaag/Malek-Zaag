@@ -35,7 +35,6 @@
 
 <summary>📫 Reach out on: </summary>
  
-  - 🐦 Twitter : https://twitter.com/MalekZaag
   
   - 📘 Linkedin : https://www.linkedin.com/in/malekzaag
     
