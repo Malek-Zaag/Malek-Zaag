@@ -40,13 +40,13 @@
 
 <p align="left">
 <img width="50" height="50" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="google-cloud"/>
-<img width="50" height="50" alt="aws" src="https://upload.wikimedia.org/wikipedia/commons/5/5c/AWS_Simple_Icons_AWS_Cloud.svg" /> 
+<img width="50" height="50" alt="aws" src="https://www.svgrepo.com/show/61235/amazon.svg" /> 
 <img width="50" height="50" alt="azure" src="./icons/icons8-azure.svg" />
 <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="typescript" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/> 
+<img src="https://www.svgrepo.com/show/452091/python.svg" alt="cplusplus" width="50" height="50"/> 
 <img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/452234/java.svg" />
-<img width="50" height="50" alt="golang" src="https://www.svgrepo.com/show/373635/go-gopher.svg" />
+<img width="50" height="50" alt="golang" src="https://www.svgrepo.com/show/353795/go.svg" />
 <img width="50" height="50" alt="bash" src="https://www.svgrepo.com/show/353478/bash-icon.svg" /> 
 <img width="50" height="50" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/1200px-Kubernetes_logo_without_workmark.svg.png" alt="nestjs" width="50" height="50"/>
