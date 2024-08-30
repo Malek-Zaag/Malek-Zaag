@@ -45,7 +45,7 @@
 <img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="typescript" width="50" height="50"/> 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
 <img src="https://www.svgrepo.com/show/452091/python.svg" alt="cplusplus" width="50" height="50"/> 
-<img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/452234/java.svg" />
+<img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/184143/java.svg" />
 <img width="50" height="50" alt="golang" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />
 <img width="50" height="50" alt="bash" src="https://www.svgrepo.com/show/353478/bash-icon.svg" /> 
 <img width="50" height="50" alt="docker" src="https://www.svgrepo.com/show/331370/docker.svg" />
@@ -55,6 +55,9 @@
 <img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/331488/mongodb.svg" />
 <img width="50" height="50" alt="mongodb" src="https://www.svgrepo.com/show/354447/terraform-icon.svg" />
 <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="50" height="50"/> 
+<img src="https://www.svgrepo.com/show/452092/react.svg" alt="nestjs" width="50" height="50"/> 
+<img src="https://www.svgrepo.com/show/376350/spring.svg" alt="nestjs" width="50" height="50"/> 
+<img src="https://github.com/gin-gonic/logo/blob/master/color.svg" alt="nestjs" width="50" height="50"/> 
 
 
 
