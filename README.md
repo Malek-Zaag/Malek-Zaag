@@ -57,7 +57,6 @@
 <img src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="nestjs" width="50" height="50"/> 
 <img src="https://www.svgrepo.com/show/452092/react.svg" alt="nestjs" width="50" height="50"/> 
 <img src="https://www.svgrepo.com/show/376350/spring.svg" alt="nestjs" width="50" height="50"/> 
-<img src="https://github.com/gin-gonic/logo/blob/master/color.svg" alt="nestjs" width="50" height="50"/> 
 
 
 
