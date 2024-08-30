@@ -42,8 +42,8 @@
 <img width="50" height="50" src="https://www.svgrepo.com/show/448223/gcp.svg" alt="google-cloud"/>
 <img width="50" height="50" alt="aws" src="https://www.svgrepo.com/show/61235/amazon.svg" /> 
 <img width="50" height="50" alt="azure" src="./icons/icons8-azure.svg" />
-<img src="https://www.svgrepo.com/show/303206/javascript-logo.svg" alt="typescript" width="50" height="50"/> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> 
+<img src="https://www.svgrepo.com/show/349419/javascript.svg" alt="typescript" width="50" height="50"/> 
+<img src="https://www.svgrepo.com/show/349540/typescript.svg" alt="typescript" width="50" height="50"/> 
 <img src="https://www.svgrepo.com/show/452091/python.svg" alt="cplusplus" width="50" height="50"/> 
 <img width="50" height="50" alt="java" src="https://www.svgrepo.com/show/184143/java.svg" />
 <img width="50" height="50" alt="golang" src="https://cdn.worldvectorlogo.com/logos/gopher.svg" />
