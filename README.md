@@ -53,8 +53,11 @@
  <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true" alt="Gift's LangStat" /> 
 <br/>
-<p style="margin:3rem;"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag" alt="mk" /></p>
-<!--   <img align="center" src="https://streak-stats.demolab.com/?user=Malek-Zaag" alt="Gift's LangStat" /> 
+ <!--  
+<p style="">
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag" alt="mk" />
+</p>
+  <img align="center" src="https://streak-stats.demolab.com/?user=Malek-Zaag" alt="Gift's LangStat" /> 
    -->
 </div>
 
