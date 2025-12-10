@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
+<p>Desire is suffering.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Naval Ravikant</p>
