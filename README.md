@@ -88,3 +88,10 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Malek-Zaag&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malek-Zaag&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malek-Zaag&theme=github_dark&utcOffset=8)
+
+
+## The Daily Quote
+
+<p>You gain strength, courage and confidence by every experience in which you really stop to look fear in the face.</p>
+
+<p>- Eleanor Roosevelt</p>
