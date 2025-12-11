@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Desire is suffering.</p>
+<p>A different result requires doing something different.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Gary Keller</p>
