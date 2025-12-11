@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>In the midst of chaos, there is also opportunity.</p>
+<p>If you do not push the boundaries, you will never know where they are.</p>
 
-<p>- Sun Tzu</p>
+<p>- T.S. Eliot</p>
