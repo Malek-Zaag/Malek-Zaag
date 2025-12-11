@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A different result requires doing something different.</p>
+<p>In the midst of chaos, there is also opportunity.</p>
 
-<p>- Gary Keller</p>
+<p>- Sun Tzu</p>
