@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
+<p>All I can do is be me, whoever that is.</p>
 
-<p>- Albus Dumbledore</p>
+<p>- Bob Dylan</p>
