@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>All I can do is be me, whoever that is.</p>
+<p>The friendship that can cease has never been real. </p>
 
-<p>- Bob Dylan</p>
+<p>- St. Jerome</p>
