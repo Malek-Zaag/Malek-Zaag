@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you do not push the boundaries, you will never know where they are.</p>
+<p>The truth... It is a beautiful and terrible thing, and should therefore be treated with great caution.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Albus Dumbledore</p>
