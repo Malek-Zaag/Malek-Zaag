@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Life isn't about finding yourself. Life is about creating yourself.</p>
+<p>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Chinese Proverb</p>
