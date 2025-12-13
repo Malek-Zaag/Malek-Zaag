@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The friendship that can cease has never been real. </p>
+<p>Life isn't about finding yourself. Life is about creating yourself.</p>
 
-<p>- St. Jerome</p>
+<p>- George Bernard Shaw</p>
