@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A wise man makes his own decisions, but an ignorant man mindlessly follows the crowd.</p>
+<p>A dream doesn't become reality through magic it takes sweat, determination and hard work.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Colin Powell</p>
