@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>All life is an experiment. The more experiments you make, the better.</p>
+<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Charles Swindoll</p>
