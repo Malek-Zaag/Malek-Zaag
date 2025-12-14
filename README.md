@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The swift wind of compromise is a lot more devastating than the sudden jolt of misfortune. </p>
+<p>A good character is the best tombstone. Carve your name on hearts, not on marble.</p>
 
-<p>- Charles Swindoll</p>
+<p>- Charles Spurgeon</p>
