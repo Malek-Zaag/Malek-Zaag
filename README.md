@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A dream doesn't become reality through magic it takes sweat, determination and hard work.</p>
+<p>All life is an experiment. The more experiments you make, the better.</p>
 
-<p>- Colin Powell</p>
+<p>- Ralph Waldo Emerson</p>
