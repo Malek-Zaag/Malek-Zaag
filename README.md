@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Awakening is possible only for those who seek it and want it.</p>
+<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
 
-<p>- G.I. Gurdjieff</p>
+<p>- Kahlil Gibran</p>
