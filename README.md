@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A good character is the best tombstone. Carve your name on hearts, not on marble.</p>
+<p>Awakening is possible only for those who seek it and want it.</p>
 
-<p>- Charles Spurgeon</p>
+<p>- G.I. Gurdjieff</p>
