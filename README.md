@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You may forget with whom you laughed, but you will never forget with whom you wept.  </p>
+<p>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- William James</p>
