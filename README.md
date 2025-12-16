@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Genius, in truth, means little more than the faculty of perceiving in an unhabitual way.</p>
+<p>Identification with our mind causes thought to become compulsive.</p>
 
-<p>- William James</p>
+<p>- Eckhart Tolle</p>
