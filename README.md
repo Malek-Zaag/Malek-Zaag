@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Identification with our mind causes thought to become compulsive.</p>
+<p>Wheels of justice grind slow but grind fine.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- Sun Tzu</p>
