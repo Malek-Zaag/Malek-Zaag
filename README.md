@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Wheels of justice grind slow but grind fine.</p>
+<p>There is no path to Love. Love is the path.</p>
 
-<p>- Sun Tzu</p>
+<p>- Dan Millman</p>
