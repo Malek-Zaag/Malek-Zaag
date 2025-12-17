@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There is no path to Love. Love is the path.</p>
+<p>Nothing is permanent in this wicked world - not even our troubles.</p>
 
-<p>- Dan Millman</p>
+<p>- Charlie Chaplin</p>
