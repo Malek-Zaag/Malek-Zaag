@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Nothing is permanent in this wicked world - not even our troubles.</p>
+<p>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</p>
 
-<p>- Charlie Chaplin</p>
+<p>- Zig Ziglar</p>
