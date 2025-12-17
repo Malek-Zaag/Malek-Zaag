@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You already have every characteristic necessary for success if you recognize, claim, develop and use them.</p>
+<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Samuel Butler</p>
