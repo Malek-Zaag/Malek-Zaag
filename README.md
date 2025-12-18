@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
+<p>Be a master of change rather than a victim of change.</p>
 
-<p>- Samuel Butler</p>
+<p>- Brian Tracy</p>
