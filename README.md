@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Be a master of change rather than a victim of change.</p>
+<p>If you see yourself as prosperous, you will be.</p>
 
-<p>- Brian Tracy</p>
+<p>- Robert Collier</p>
