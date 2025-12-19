@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Poverty and hardship are created by false thinking.</p>
+<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
 
-<p>- Bodhidharma</p>
+<p>- Seungsahn</p>
