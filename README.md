@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Wealth is the product of man's capacity to think.</p>
+<p>Poverty and hardship are created by false thinking.</p>
 
-<p>- Ayn Rand</p>
+<p>- Bodhidharma</p>
