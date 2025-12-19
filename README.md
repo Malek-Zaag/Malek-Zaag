@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle.</p>
+<p>Wealth is the product of man's capacity to think.</p>
 
-<p>- Albert Einstein</p>
+<p>- Ayn Rand</p>
