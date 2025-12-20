@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you want something then you lose everything. If you don't want anything then you already have everything.</p>
+<p>Make each day your masterpiece.</p>
 
-<p>- Seungsahn</p>
+<p>- John Wooden</p>
