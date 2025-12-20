@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Make each day your masterpiece.</p>
+<p>Longevity is a fleeting moment that lasts forever.</p>
 
-<p>- John Wooden</p>
+<p>- Vidal Sassoon</p>
