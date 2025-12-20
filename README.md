@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Longevity is a fleeting moment that lasts forever.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Vidal Sassoon</p>
+<p>- George Addair</p>
