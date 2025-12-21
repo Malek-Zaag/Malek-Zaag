@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
 
-<p>- George Addair</p>
+<p>- Hans Christian Andersen</p>
