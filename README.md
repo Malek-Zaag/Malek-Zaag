@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Life is like a beautiful melody, only the lyrics are messed up.</p>
+<p>It all depends on what you choose to believe.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Spencer Johnson</p>
