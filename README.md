@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>It all depends on what you choose to believe.</p>
+<p>No amount of regretting can change the past, and no amount of worrying can change the future.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Roy T. Bennett</p>
