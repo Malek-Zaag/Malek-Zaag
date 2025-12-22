@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>People who belittle people, will be LITTLE people, and will accomplish very Little</p>
+<p>Not why the addiction but why the pain.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Gabor Mate</p>
