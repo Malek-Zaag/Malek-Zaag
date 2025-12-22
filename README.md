@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Beginning today, treat everyone you meet as if they were going to be dead by midnight. Your life will never be the same again.</p>
+<p>People who belittle people, will be LITTLE people, and will accomplish very Little</p>
 
-<p>- Og Mandino</p>
+<p>- Norman Vincent Peale</p>
