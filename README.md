@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A loving heart is the truest wisdom.</p>
+<p>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</p>
 
-<p>- Charles Dickens</p>
+<p>- Naval Ravikant</p>
