@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Not why the addiction but why the pain.</p>
+<p>A loving heart is the truest wisdom.</p>
 
-<p>- Gabor Mate</p>
+<p>- Charles Dickens</p>
