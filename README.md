@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Nothing you do is going to matter that much in the long run. Don't take yourself so seriously.</p>
+<p>Winning isn't everything, but wanting to win is.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Vince Lombardi</p>
