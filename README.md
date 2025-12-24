@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Winning isn't everything, but wanting to win is.</p>
+<p>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</p>
 
-<p>- Vince Lombardi</p>
+<p>- George Bernard Shaw</p>
