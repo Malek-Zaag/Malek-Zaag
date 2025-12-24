@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A life spent making mistakes is not only more honorable but more useful than a life spent doing nothing.</p>
+<p>It is during our darkest moments that we must focus to see the light.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Aristotle</p>
