@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>It is during our darkest moments that we must focus to see the light.</p>
+<p>Dream big and dare to fail.</p>
 
-<p>- Aristotle</p>
+<p>- Norman Vaughan</p>
