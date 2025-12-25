@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Excellence is not a skill. It is an attitude. </p>
+<p>Cultivate the merry heart, develop the happiness habit, and life will become a continual feast.</p>
 
-<p>- Ralph Marston</p>
+<p>- Norman Vincent Peale</p>
