@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A real decision is measured by the fact that you've taken a new action. If there's no action, you haven't truly decided.</p>
+<p>Be a good animal, true to your instincts.</p>
 
-<p>- Tony Robbins</p>
+<p>- D. H. Lawrence</p>
