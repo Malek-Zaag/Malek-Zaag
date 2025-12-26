@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Be a good animal, true to your instincts.</p>
+<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
 
-<p>- D. H. Lawrence</p>
+<p>- Chinese Proverb</p>
