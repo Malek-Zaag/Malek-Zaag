@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A man who cannot tolerate small misfortunes can never accomplish great things.</p>
+<p>A wise man will be master of his mind, a fool will be its slave.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Publilius Syrus</p>
