@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A wise man will be master of his mind, a fool will be its slave.</p>
+<p>Chase your passion, not your pension. </p>
 
-<p>- Publilius Syrus</p>
+<p>- Denis Waitley</p>
