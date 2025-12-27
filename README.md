@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>We never know the love of a parent till we become parents ourselves.</p>
+<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- Roy T. Bennett</p>
