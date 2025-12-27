@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Chase your passion, not your pension. </p>
+<p>We never know the love of a parent till we become parents ourselves.</p>
 
-<p>- Denis Waitley</p>
+<p>- Henry Ward Beecher</p>
