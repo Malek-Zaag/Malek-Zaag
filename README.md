@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Truth is exact correspondence with reality. </p>
+<p>Educating the mind without educating the heart is no education at all.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Aristotle</p>
