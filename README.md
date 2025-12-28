@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Educating the mind without educating the heart is no education at all.</p>
+<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
 
-<p>- Aristotle</p>
+<p>- Dalai Lama</p>
