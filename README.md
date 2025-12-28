@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Take responsibility of your own happiness, never put it in other people's hands.</p>
+<p>Truth is exact correspondence with reality. </p>
 
-<p>- Roy T. Bennett</p>
+<p>- Paramahansa Yogananda</p>
