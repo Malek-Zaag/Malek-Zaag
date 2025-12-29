@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
+<p>No one ever is defeated until defeat has been accepted as a reality.</p>
 
-<p>- Spencer Johnson</p>
+<p>- Napoleon Hill</p>
