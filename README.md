@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>No one ever is defeated until defeat has been accepted as a reality.</p>
+<p>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Miguel de Cervantes</p>
