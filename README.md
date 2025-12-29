@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>When you realize you've made a mistake, take immediate steps to correct it.</p>
+<p>It is safer to search in the maze than to remain in a cheeseless situation.</p>
 
-<p>- Dalai Lama</p>
+<p>- Spencer Johnson</p>
