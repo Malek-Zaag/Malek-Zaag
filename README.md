@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>He who loses wealth loses much; he who loses a friend loses more; but he that loses his courage loses all.</p>
+<p>The eyes of others our prisons; their thoughts our cages.</p>
 
-<p>- Miguel de Cervantes</p>
+<p>- Virginia Woolf</p>
