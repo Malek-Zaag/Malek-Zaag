@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The eyes of others our prisons; their thoughts our cages.</p>
+<p>The whole of life, from the moment you are born to the moment you die, is a process of learning.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Jiddu Krishnamurti</p>
