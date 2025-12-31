@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Life without love is like a tree without blossoms or fruit.</p>
+<p>There is nothing like looking if you want to find something.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- J.R.R. Tolkien</p>
