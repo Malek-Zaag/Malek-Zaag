@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There is nothing like looking if you want to find something.</p>
+<p>It is not that we have too little time to do all the things we need to do , it is that we feel the need to do too many things in the time we have.</p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Gary Keller</p>
