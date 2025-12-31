@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Stop acting so small. You are the universe in ecstatic motion.</p>
+<p>Life without love is like a tree without blossoms or fruit.</p>
 
-<p>- Rumi</p>
+<p>- Kahlil Gibran</p>
