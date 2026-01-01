@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>It's not about what it is, it's about what it can become.</p>
+<p>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</p>
 
-<p>- Dr. Seuss</p>
+<p>- Unknown</p>
