@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward.</p>
+<p>It is not titles that honour men, but men that honour titles.</p>
 
-<p>- Unknown</p>
+<p>- Niccolo Machiavelli</p>
