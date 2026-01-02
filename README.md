@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you get up one more time than you fall, you will make it through.</p>
+<p>Every blessing ignored becomes a curse.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Paulo Coelho</p>
