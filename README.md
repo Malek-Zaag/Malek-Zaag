@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>It is not titles that honour men, but men that honour titles.</p>
+<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Audrey Hepburn</p>
