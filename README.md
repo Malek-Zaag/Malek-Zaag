@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Opportunities don't often come along. So, when they do, you have to grab them.</p>
+<p>If you get up one more time than you fall, you will make it through.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Chinese Proverb</p>
