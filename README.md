@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>It does not do to dwell on dreams and forget to live, remember that.</p>
+<p>Go for it now. The future is promised to no one. </p>
 
-<p>- Albus Dumbledore</p>
+<p>- Wayne Dyer</p>
