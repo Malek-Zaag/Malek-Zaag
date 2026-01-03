@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>We are like islands in the sea, separate on the surface but connected in the deep.</p>
+<p>It does not do to dwell on dreams and forget to live, remember that.</p>
 
-<p>- William James</p>
+<p>- Albus Dumbledore</p>
