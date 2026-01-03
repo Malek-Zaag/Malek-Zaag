@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Every blessing ignored becomes a curse.</p>
+<p>We are like islands in the sea, separate on the surface but connected in the deep.</p>
 
-<p>- Paulo Coelho</p>
+<p>- William James</p>
