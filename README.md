@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A loving heart is the truest wisdom.</p>
+<p>Care about what other people think and you will always be their prisoner.</p>
 
-<p>- Charles Dickens</p>
+<p>- Lao Tzu</p>
