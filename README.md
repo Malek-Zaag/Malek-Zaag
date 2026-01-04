@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Go for it now. The future is promised to no one. </p>
+<p>A loving heart is the truest wisdom.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Charles Dickens</p>
