@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Care about what other people think and you will always be their prisoner.</p>
+<p>One of the most difficult things is not to change society - but to change yourself.</p>
 
-<p>- Lao Tzu</p>
+<p>- Nelson Mandela</p>
