@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>One of the most difficult things is not to change society - but to change yourself.</p>
+<p>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Kamal Ravikant</p>
