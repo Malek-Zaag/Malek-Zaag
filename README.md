@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>When something comes from within, when it is a part of you, you have no choice but to live it, to express it.</p>
+<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Plato</p>
