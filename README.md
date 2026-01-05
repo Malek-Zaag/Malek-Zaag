@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Wise men speak because they have something to say; Fools because they have to say something.</p>
+<p>Just because you are happy it does not mean that the day is perfect but that you have looked beyond its imperfections.</p>
 
-<p>- Plato</p>
+<p>- Bob Marley</p>
