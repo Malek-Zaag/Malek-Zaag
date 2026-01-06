@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The single most powerful asset we all have is our mind.</p>
+<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Sun Tzu</p>
