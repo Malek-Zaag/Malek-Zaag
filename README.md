@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat.</p>
+<p>Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.</p>
 
-<p>- Sun Tzu</p>
+<p>- Joan Rivers</p>
