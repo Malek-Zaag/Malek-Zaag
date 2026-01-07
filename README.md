@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over.</p>
+<p>Happiness is the absence of the striving for happiness.</p>
 
-<p>- Joan Rivers</p>
+<p>- Zhuangzi</p>
