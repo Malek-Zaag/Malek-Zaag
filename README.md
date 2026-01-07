@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Happiness is the absence of the striving for happiness.</p>
+<p>The dead receive more flowers than the living because regret is stronger than gratitude.</p>
 
-<p>- Zhuangzi</p>
+<p>- Anne Frank</p>
