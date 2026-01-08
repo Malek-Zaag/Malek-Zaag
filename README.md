@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you set your goals ridiculously high and its a failure, you will fail above everyone elses success.</p>
+<p>If the plan doesn't work, change the plan, but never the goal.</p>
 
-<p>- James Cameron</p>
+<p>- Unknown</p>
