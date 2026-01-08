@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If the plan doesn't work, change the plan, but never the goal.</p>
+<p>Great acts are made up of small deeds.</p>
 
-<p>- Unknown</p>
+<p>- Lao Tzu</p>
