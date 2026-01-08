@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Great acts are made up of small deeds.</p>
+<p>Do good, live in the most positive and joyful way possible every day.</p>
 
-<p>- Lao Tzu</p>
+<p>- Roy T. Bennett</p>
