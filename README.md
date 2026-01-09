@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Do good, live in the most positive and joyful way possible every day.</p>
+<p>Unhappiness enters through a door that has been left open.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Zen Proverb</p>
