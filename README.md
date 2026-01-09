@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Be like a postage stamp. Stick to it until you get there.</p>
+<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
 
-<p>- Bob Proctor</p>
+<p>- Zig Ziglar</p>
