@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Unhappiness enters through a door that has been left open.</p>
+<p>Be like a postage stamp. Stick to it until you get there.</p>
 
-<p>- Zen Proverb</p>
+<p>- Bob Proctor</p>
