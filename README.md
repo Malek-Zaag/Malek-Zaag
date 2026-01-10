@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>One small positive thought can change your whole day.</p>
+<p>Your only obligation in any lifetime is to be true to yourself.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Richard Bach</p>
