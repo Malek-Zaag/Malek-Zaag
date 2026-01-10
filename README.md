@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A lot of people have gone further than they thought they could because someone else thought they could.</p>
+<p>One small positive thought can change your whole day.</p>
 
 <p>- Zig Ziglar</p>
