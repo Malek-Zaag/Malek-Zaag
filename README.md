@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Your only obligation in any lifetime is to be true to yourself.</p>
+<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
 
-<p>- Richard Bach</p>
+<p>- Wayne Dyer</p>
