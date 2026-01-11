@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The highest form of ignorance is when you reject something you don't know anything about. </p>
+<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
 
-<p>- Wayne Dyer</p>
+<p>- Oprah Winfrey</p>
