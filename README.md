@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Failure is a great teacher. If you're open to it every mistake has a lesson to offer.</p>
+<p>If there were no God, there would be no atheists.</p>
 
-<p>- Oprah Winfrey</p>
+<p>- Gilbert Chesterton</p>
