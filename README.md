@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If there were no God, there would be no atheists.</p>
+<p>The smallest act of kindness is worth more than the greatest intention.  </p>
 
-<p>- Gilbert Chesterton</p>
+<p>- Kahlil Gibran</p>
