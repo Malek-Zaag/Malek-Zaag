@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Behind every cloud is another cloud.</p>
+<p>Remember we're all in this alone.</p>
 
-<p>- Judy Garland</p>
+<p>- Lily Tomlin</p>
