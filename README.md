@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Don't let making a living prevent you from making a life.</p>
+<p>Behind every cloud is another cloud.</p>
 
-<p>- John Wooden</p>
+<p>- Judy Garland</p>
