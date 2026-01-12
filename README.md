@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The smallest act of kindness is worth more than the greatest intention.  </p>
+<p>Don't let making a living prevent you from making a life.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- John Wooden</p>
