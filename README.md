@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you do not conquer self, you will be conquered by self.</p>
+<p>Whatever is begun in anger, ends in shame.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Benjamin Franklin</p>
