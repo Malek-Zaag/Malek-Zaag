@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Whatever is begun in anger, ends in shame.</p>
+<p>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Thomas Jefferson</p>
