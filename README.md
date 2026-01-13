@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Remember we're all in this alone.</p>
+<p>If you do not conquer self, you will be conquered by self.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Napoleon Hill</p>
