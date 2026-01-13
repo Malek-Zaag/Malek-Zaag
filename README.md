@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Nothing gives one person so much advantage over another as to remain always cool and unruffled under all circumstances.</p>
+<p>There is no sadder sight than a young pessimist.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Mark Twain</p>
