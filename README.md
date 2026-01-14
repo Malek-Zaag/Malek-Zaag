@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The secret of life is to fall seven times and to get up eight times.</p>
+<p>The measure of wisdom is how calm you are when facing any given situation.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Naval Ravikant</p>
