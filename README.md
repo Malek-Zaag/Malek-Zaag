@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There is no sadder sight than a young pessimist.</p>
+<p>A clear conscience is the sure sign of a bad memory.</p>
 
 <p>- Mark Twain</p>
