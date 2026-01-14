@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The measure of wisdom is how calm you are when facing any given situation.</p>
+<p>Over time, loneliness gets inside you and doesn't go away.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Carlos Ruiz Zafon</p>
