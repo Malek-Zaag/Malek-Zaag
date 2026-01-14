@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A clear conscience is the sure sign of a bad memory.</p>
+<p>The secret of life is to fall seven times and to get up eight times.</p>
 
-<p>- Mark Twain</p>
+<p>- Paulo Coelho</p>
