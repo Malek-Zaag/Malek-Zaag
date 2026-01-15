@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</p>
+<p>Wherever you are, it's the place you need to be.</p>
 
-<p>- Bhagavad Gita</p>
+<p>- Maxime Lagace</p>
