@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>We are always complaining that our days are few, and acting as though there would be no end of them.  </p>
+<p>Through selfless service, you will always be fruitful and find the fulfillment of your desires.</p>
 
-<p>- Seneca</p>
+<p>- Bhagavad Gita</p>
