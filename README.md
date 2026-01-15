@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Over time, loneliness gets inside you and doesn't go away.</p>
+<p>Failure will never overtake me if my determination to succeed is strong enough.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Og Mandino</p>
