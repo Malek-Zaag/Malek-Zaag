@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The most important battle is one to conquer yourself.</p>
+<p>There is no absolute success in the world, only constant progress.</p>
 
-<p>- Yanni</p>
+<p>- Jonathan Swift</p>
