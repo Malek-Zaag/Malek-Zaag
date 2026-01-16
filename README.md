@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Wherever you are, it's the place you need to be.</p>
+<p>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Charles Dickens</p>
