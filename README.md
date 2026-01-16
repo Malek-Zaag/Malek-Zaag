@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
+<p>The most important battle is one to conquer yourself.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Yanni</p>
