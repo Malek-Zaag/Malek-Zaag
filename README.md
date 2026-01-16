@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A thing constructed can only be loved after it is constructed; but a thing created is loved before it exists.</p>
+<p>To acquire true self power you have to feel beneath no one, be immune to criticism and be fearless.</p>
 
-<p>- Charles Dickens</p>
+<p>- Deepak Chopra</p>
