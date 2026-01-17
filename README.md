@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
+<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
 
-<p>- Zig Ziglar</p>
+<p>- Sydney Smith</p>
