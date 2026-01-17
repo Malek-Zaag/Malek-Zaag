@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Hardly anybody recognizes the most significant moments of their life at the time they happen.</p>
+<p>Duty makes us do things well, but love makes us do them beautifully.  </p>
 
-<p>- W.P. Kinsella</p>
+<p>- Zig Ziglar</p>
