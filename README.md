@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>All problems are illusions of the mind.</p>
+<p>Hardly anybody recognizes the most significant moments of their life at the time they happen.</p>
 
-<p>- Eckhart Tolle</p>
+<p>- W.P. Kinsella</p>
