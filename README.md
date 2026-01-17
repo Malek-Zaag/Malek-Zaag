@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There is no absolute success in the world, only constant progress.</p>
+<p>All problems are illusions of the mind.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Eckhart Tolle</p>
