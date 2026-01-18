@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Debt is the slavery of the free.</p>
+<p>Don't let the silly little dramas of each day get you down. For you are here to do great things.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Ralph Marston</p>
