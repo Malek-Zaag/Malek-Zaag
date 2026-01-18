@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Obstacles are those frightful things you see when you take your eyes off your goals.</p>
+<p>The person who cannot control his words shows that he cannot control himself.</p>
 
-<p>- Sydney Smith</p>
+<p>- Robert Greene</p>
