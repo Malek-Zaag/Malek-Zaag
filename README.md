@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The person who cannot control his words shows that he cannot control himself.</p>
+<p>Your time is limited, so don't waste it living someone elses. life.</p>
 
-<p>- Robert Greene</p>
+<p>- Steve Jobs</p>
