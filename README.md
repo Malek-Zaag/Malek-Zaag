@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Your time is limited, so don't waste it living someone elses. life.</p>
+<p>Debt is the slavery of the free.</p>
 
-<p>- Steve Jobs</p>
+<p>- Publilius Syrus</p>
