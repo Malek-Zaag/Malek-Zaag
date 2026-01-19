@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Don't let the silly little dramas of each day get you down. For you are here to do great things.</p>
+<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
 
-<p>- Ralph Marston</p>
+<p>- William James</p>
