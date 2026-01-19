@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Avoiding failure is to avoid progress.</p>
+<p>Knowledge isn't power until it is applied.</p>
 
-<p>- Unknown</p>
+<p>- Dale Carnegie</p>
