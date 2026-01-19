@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There are no differences but differences of degree between different degrees of difference and no difference.</p>
+<p>Real growth comes through intense, difficult, and challenging situations.</p>
 
-<p>- William James</p>
+<p>- Kamal Ravikant</p>
