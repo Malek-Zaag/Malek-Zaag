@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Real growth comes through intense, difficult, and challenging situations.</p>
+<p>Avoiding failure is to avoid progress.</p>
 
-<p>- Kamal Ravikant</p>
+<p>- Unknown</p>
