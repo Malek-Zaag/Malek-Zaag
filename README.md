@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>No matter how tall the mountain is, it cannot block the sun.</p>
+<p>May you live all the days of your life.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Jonathan Swift</p>
