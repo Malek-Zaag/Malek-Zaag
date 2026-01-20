@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>May you live all the days of your life.</p>
+<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Brian Tracy</p>
