@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Leaders think and talk about solutions. Followers think and talk about the problems.</p>
+<p>Whatever you do in life, surround yourself with smart people who'll argue with you.</p>
 
-<p>- Brian Tracy</p>
+<p>- John Wooden</p>
