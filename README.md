@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Knowledge isn't power until it is applied.</p>
+<p>No matter how tall the mountain is, it cannot block the sun.</p>
 
-<p>- Dale Carnegie</p>
+<p>- Chinese Proverb</p>
