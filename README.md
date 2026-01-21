@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you want something you've never had you must be willing to do something you've never done.</p>
+<p>When you want something in life, you just gotta reach out and grab it.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Christopher McCandless</p>
