@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Whatever you do in life, surround yourself with smart people who'll argue with you.</p>
+<p>If you want something you've never had you must be willing to do something you've never done.</p>
 
-<p>- John Wooden</p>
+<p>- Thomas Jefferson</p>
