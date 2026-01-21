@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>When you want something in life, you just gotta reach out and grab it.</p>
+<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
 
-<p>- Christopher McCandless</p>
+<p>- Colin Powell</p>
