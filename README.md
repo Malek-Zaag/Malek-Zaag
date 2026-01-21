@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>None of us can change our yesterdays but all of us can change our tomorrows.</p>
+<p>We take care of the future best by taking care of the present now.</p>
 
-<p>- Colin Powell</p>
+<p>- Jon Kabat-Zinn</p>
