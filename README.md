@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
+<p>If you let your head get too big, it'll break your neck.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Elvis Presley</p>
