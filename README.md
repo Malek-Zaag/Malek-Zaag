@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>We take care of the future best by taking care of the present now.</p>
+<p>Everything you've ever wanted is on the other side of fear.</p>
 
-<p>- Jon Kabat-Zinn</p>
+<p>- George Addair</p>
