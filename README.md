@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Everything you've ever wanted is on the other side of fear.</p>
+<p>Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.</p>
 
-<p>- George Addair</p>
+<p>- Kahlil Gibran</p>
