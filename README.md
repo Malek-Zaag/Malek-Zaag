@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love.</p>
+<p>It is best to begin at the beginning.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Amelia Earhart</p>
