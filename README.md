@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Through discipline comes freedom.</p>
+<p>A minute's success pays the failure of years.</p>
 
-<p>- Aristotle</p>
+<p>- Robert Browning</p>
