@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>It is best to begin at the beginning.</p>
+<p>Life is about choice. You can choose to be a victim or anything else you like to be.</p>
 
-<p>- Amelia Earhart</p>
+<p>- Celestine Chua</p>
