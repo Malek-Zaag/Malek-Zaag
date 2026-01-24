@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Success is within the reach of just about everyone.</p>
+<p>Listen to the secret sound, the real sound, which is inside you.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Kabir</p>
