@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
+<p>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</p>
 
-<p>- Elon Musk</p>
+<p>- Vaclav Havel</p>
