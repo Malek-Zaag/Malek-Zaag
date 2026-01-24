@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>We must not be afraid of dreaming the seemingly impossible if we want the seemingly impossible to become a reality.</p>
+<p>Success is within the reach of just about everyone.</p>
 
-<p>- Vaclav Havel</p>
+<p>- Lolly Daskal</p>
