@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A minute's success pays the failure of years.</p>
+<p>I take the position that I'm always to some degree wrong, and the aspiration is to be less wrong.</p>
 
-<p>- Robert Browning</p>
+<p>- Elon Musk</p>
