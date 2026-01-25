@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A little impatience will spoil great plans.</p>
+<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
 
-<p>- Chinese Proverb</p>
+<p>- Bruce Lee</p>
