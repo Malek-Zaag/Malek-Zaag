@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Create each day anew.</p>
+<p>Even when a friend does something you do not like, he continues to be your friend. </p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Genghis Khan</p>
