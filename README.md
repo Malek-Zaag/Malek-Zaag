@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Listen to the secret sound, the real sound, which is inside you.</p>
+<p>Create each day anew.</p>
 
-<p>- Kabir</p>
+<p>- Morihei Ueshiba</p>
