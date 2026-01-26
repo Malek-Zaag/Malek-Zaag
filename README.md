@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Absorb what is useful, discard what is useless and add what is specifically your own.  </p>
+<p>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</p>
 
-<p>- Bruce Lee</p>
+<p>- Jonathan Swift</p>
