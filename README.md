@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Learn only how to avoid seeking for and attaching yourselves to anything.</p>
+<p>Just do the best you can. No one can do more than that.</p>
 
-<p>- Huang Po</p>
+<p>- John Wooden</p>
