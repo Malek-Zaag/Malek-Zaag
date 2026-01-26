@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
+<p>Learn only how to avoid seeking for and attaching yourselves to anything.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Huang Po</p>
