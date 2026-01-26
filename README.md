@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Laws are like cobwebs, which may catch small flies, but let wasps and hornets break through.</p>
+<p>If you're brave enough to say goodbye, life will reward you with a new hello.</p>
 
-<p>- Jonathan Swift</p>
+<p>- Paulo Coelho</p>
