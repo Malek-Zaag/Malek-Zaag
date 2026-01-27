@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Be polite to all, but intimate with few.</p>
+<p>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Billie Jean King</p>
