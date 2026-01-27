@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</p>
+<p>Be polite to all, but intimate with few.</p>
 
-<p>- Celestine Chua</p>
+<p>- Thomas Jefferson</p>
