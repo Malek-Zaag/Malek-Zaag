@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</p>
+<p>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</p>
 
-<p>- Billie Jean King</p>
+<p>- Dogen</p>
