@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Just do the best you can. No one can do more than that.</p>
+<p>Every moment you get is a gift. Spend it on things that matter. Don't spend it by dwelling on unhappy things.</p>
 
-<p>- John Wooden</p>
+<p>- Celestine Chua</p>
