@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
+<p>Action may not always bring happiness, but there is no happiness without action.</p>
 
-<p>- Jim Rohn</p>
+<p>- William James</p>
