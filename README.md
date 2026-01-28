@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Repetition does not transform a lie into a truth.</p>
+<p>Attitude drives actions. Actions drive results. Results drive lifestyles.</p>
 
-<p>- Franklin D. Roosevelt</p>
+<p>- Jim Rohn</p>
