@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Believe nothing you hear, and only one half that you see.</p>
+<p>Repetition does not transform a lie into a truth.</p>
 
-<p>- Edgar Allan Poe</p>
+<p>- Franklin D. Roosevelt</p>
