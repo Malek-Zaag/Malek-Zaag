@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If he cannot stop the mind that seeks after fame and profit, he will spend his life without finding peace.</p>
+<p>Believe nothing you hear, and only one half that you see.</p>
 
-<p>- Dogen</p>
+<p>- Edgar Allan Poe</p>
