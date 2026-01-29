@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>People who say it cannot be done should not interrupt those who are doing it.</p>
+<p>A good system shortens the road to the goal. </p>
 
-<p>- George Bernard Shaw</p>
+<p>- Orison Swett Marden</p>
