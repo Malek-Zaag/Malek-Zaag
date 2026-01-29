@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</p>
+<p>Where focus goes, energy flows.</p>
 
-<p>- Woody Allen</p>
+<p>- Tony Robbins</p>
