@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Action may not always bring happiness, but there is no happiness without action.</p>
+<p>If you're not failing every now and again, it's a sign you're not doing anything very innovative.</p>
 
-<p>- William James</p>
+<p>- Woody Allen</p>
