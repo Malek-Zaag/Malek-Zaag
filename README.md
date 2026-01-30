@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
+<p>The privilege of a lifetime is to become who you truly are.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Carl Jung</p>
