@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A life without a cause is a life without effect.</p>
+<p>It is hard to fail, but it is worse never to have tried to succeed.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Theodore Roosevelt</p>
