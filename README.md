@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A good system shortens the road to the goal. </p>
+<p>A life without a cause is a life without effect.</p>
 
-<p>- Orison Swett Marden</p>
+<p>- Paulo Coelho</p>
