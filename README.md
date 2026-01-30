@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The privilege of a lifetime is to become who you truly are.</p>
+<p>Your vision will become clear only when you can look into your own heart.</p>
 
-<p>- Carl Jung</p>
+<p>- Lolly Daskal</p>
