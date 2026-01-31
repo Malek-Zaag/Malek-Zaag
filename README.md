@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>It's not the men in your life that matters, it's the life in your men.</p>
+<p>To become what you are not, behave as you do not.</p>
 
-<p>- Mae West</p>
+<p>- T.S. Eliot</p>
