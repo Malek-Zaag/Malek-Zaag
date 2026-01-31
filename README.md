@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>To become what you are not, behave as you do not.</p>
+<p>If you always do what you've always done, you'll always get what you've always got. </p>
 
-<p>- T.S. Eliot</p>
+<p>- Henry Ford</p>
