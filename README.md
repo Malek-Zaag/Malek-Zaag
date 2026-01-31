@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you always do what you've always done, you'll always get what you've always got. </p>
+<p>Relax. Nothing is under control.</p>
 
-<p>- Henry Ford</p>
+<p>- Adi Da Samraj</p>
