@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Your vision will become clear only when you can look into your own heart.</p>
+<p>It's not the men in your life that matters, it's the life in your men.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Mae West</p>
