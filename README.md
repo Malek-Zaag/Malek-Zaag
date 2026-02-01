@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The journey is what brings us happiness not the destination.</p>
+<p>Better to live until you die.</p>
 
 <p>- Dan Millman</p>
