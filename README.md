@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Relax. Nothing is under control.</p>
+<p>Peace begins with a smile.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Mother Teresa</p>
