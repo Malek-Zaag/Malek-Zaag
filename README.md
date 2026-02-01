@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Peace begins with a smile.</p>
+<p>The journey is what brings us happiness not the destination.</p>
 
-<p>- Mother Teresa</p>
+<p>- Dan Millman</p>
