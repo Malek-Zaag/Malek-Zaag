@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The merit of all things lies in their difficulty.</p>
+<p>Fear is stupid. So are regrets.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Marilyn Monroe</p>
