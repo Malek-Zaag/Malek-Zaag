@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you build the guts to do something, anything, then you better save enough to face the consequences.</p>
+<p>To become what you are not, behave as you do not.</p>
 
-<p>- Criss Jami</p>
+<p>- T.S. Eliot</p>
