@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>To become what you are not, behave as you do not.</p>
+<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Samuel Butler</p>
