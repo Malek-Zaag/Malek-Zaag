@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
+<p>The merit of all things lies in their difficulty.</p>
 
-<p>- Samuel Butler</p>
+<p>- Alexandre Dumas</p>
