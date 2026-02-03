@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You change the world by being yourself.</p>
+<p>Perseverance and spirit have done wonders in all ages. </p>
 
-<p>- Yoko Ono</p>
+<p>- George Washington</p>
