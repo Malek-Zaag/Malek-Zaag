@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Perseverance and spirit have done wonders in all ages. </p>
+<p>If you can't imagine it, you can't have it.</p>
 
-<p>- George Washington</p>
+<p>- Toni Morrison</p>
