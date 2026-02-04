@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The farther backward you can look, the farther forward you are likely to see.</p>
+<p>Don't blame others. it won't make you a better person.</p>
 
-<p>- Winston Churchill</p>
+<p>- Lolly Daskal</p>
