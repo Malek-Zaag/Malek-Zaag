@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>It is better to change an opinion than to persist in a wrong one.</p>
+<p>The farther backward you can look, the farther forward you are likely to see.</p>
 
-<p>- Socrates</p>
+<p>- Winston Churchill</p>
