@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Don't blame others. it won't make you a better person.</p>
+<p>Every hour of every day is an unspeakably perfect miracle.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Walt Whitman</p>
