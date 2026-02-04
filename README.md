@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you can't imagine it, you can't have it.</p>
+<p>It is better to change an opinion than to persist in a wrong one.</p>
 
-<p>- Toni Morrison</p>
+<p>- Socrates</p>
