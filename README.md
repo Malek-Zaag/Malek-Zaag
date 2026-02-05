@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</p>
+<p>Nothing can dim the light which shines from within.</p>
 
-<p>- Henry Ford</p>
+<p>- Maya Angelou</p>
