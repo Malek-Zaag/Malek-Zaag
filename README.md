@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Nothing can dim the light which shines from within.</p>
+<p>Whenever people agree with me I always feel I must be wrong.</p>
 
-<p>- Maya Angelou</p>
+<p>- Oscar Wilde</p>
