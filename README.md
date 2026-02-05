@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Every hour of every day is an unspeakably perfect miracle.</p>
+<p>Thinking is the hardest work there is, which is probably the reason why so few engage in it.</p>
 
-<p>- Walt Whitman</p>
+<p>- Henry Ford</p>
