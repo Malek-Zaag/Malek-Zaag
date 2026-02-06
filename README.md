@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Whenever people agree with me I always feel I must be wrong.</p>
+<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Samuel Butler</p>
