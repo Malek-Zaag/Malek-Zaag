@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Failure is the key to success; each mistake teaches us something.</p>
+<p>You cannot teach a crab to walk straight.</p>
 
-<p>- Morihei Ueshiba</p>
+<p>- Aristophanes</p>
