@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Friends ask you questions; enemies question you.</p>
+<p>Failure is the key to success; each mistake teaches us something.</p>
 
-<p>- Criss Jami</p>
+<p>- Morihei Ueshiba</p>
