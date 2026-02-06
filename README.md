@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Any fool can paint a picture, but it takes a wise man to be able to sell it.</p>
+<p>Friends ask you questions; enemies question you.</p>
 
-<p>- Samuel Butler</p>
+<p>- Criss Jami</p>
