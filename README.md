@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you pray for rain, be prepared to deal with some mud.</p>
+<p>Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.</p>
 
-<p>- Mary Engelbreit</p>
+<p>- Zen Proverb</p>
