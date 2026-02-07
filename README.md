@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
+<p>If you pray for rain, be prepared to deal with some mud.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Mary Engelbreit</p>
