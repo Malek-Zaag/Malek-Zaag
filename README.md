@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You cannot teach a crab to walk straight.</p>
+<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
 
-<p>- Aristophanes</p>
+<p>- Naval Ravikant</p>
