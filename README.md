@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Someone who points out your flaws to you is not necessarily your enemy. Someone who speaks of your virtues is not necessarily your friend.</p>
+<p>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</p>
 
-<p>- Zen Proverb</p>
+<p>- Theodore Roosevelt</p>
