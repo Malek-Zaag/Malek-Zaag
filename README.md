@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There are no limitations to the mind except those we acknowledge...</p>
+<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Robert Kiyosaki</p>
