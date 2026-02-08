@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Do all things with love.</p>
+<p>A journey of a thousand miles must begin with a single step.</p>
 
-<p>- Og Mandino</p>
+<p>- Lao Tzu</p>
