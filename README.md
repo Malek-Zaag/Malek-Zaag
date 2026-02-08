@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Great thoughts speak only to the thoughtful mind, but great actions speak to all mankind.</p>
+<p>Do all things with love.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Og Mandino</p>
