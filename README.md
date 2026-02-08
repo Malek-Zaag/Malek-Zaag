@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A journey of a thousand miles must begin with a single step.</p>
+<p>There are no limitations to the mind except those we acknowledge...</p>
 
-<p>- Lao Tzu</p>
+<p>- Napoleon Hill</p>
