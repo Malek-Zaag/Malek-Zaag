@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>We learn to walk by falling down. If we never fell down, we would never walk.</p>
+<p>The chief danger in life is that you may take too many precautions.</p>
 
-<p>- Robert Kiyosaki</p>
+<p>- Alfred Adler</p>
