@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Inspire yourself to be great. Being good isn't good enough.</p>
+<p>You cannot find peace avoiding life.</p>
 
-<p>- Gurbaksh Chahal</p>
+<p>- Virginia Woolf</p>
