@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The chief danger in life is that you may take too many precautions.</p>
+<p>Inspire yourself to be great. Being good isn't good enough.</p>
 
-<p>- Alfred Adler</p>
+<p>- Gurbaksh Chahal</p>
