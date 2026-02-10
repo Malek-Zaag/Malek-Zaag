@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Wrong does not cease to be wrong because the majority share in it.</p>
+<p>Never let the fear of striking out keep you from playing the game.</p>
 
-<p>- Leo Tolstoy</p>
+<p>- Babe Ruth</p>
