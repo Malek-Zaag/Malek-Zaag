@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
+<p>Wrong does not cease to be wrong because the majority share in it.</p>
 
-<p>- John Locke</p>
+<p>- Leo Tolstoy</p>
