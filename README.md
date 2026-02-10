@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>We live only now. Everything else is either passed or is unknown.</p>
+<p>New opinions are always suspected, and usually opposed, without any other reason but because they are not common.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- John Locke</p>
