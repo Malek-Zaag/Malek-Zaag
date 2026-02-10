@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You cannot find peace avoiding life.</p>
+<p>We live only now. Everything else is either passed or is unknown.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Marcus Aurelius</p>
