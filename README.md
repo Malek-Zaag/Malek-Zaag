@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Never let the fear of striking out keep you from playing the game.</p>
+<p>Definitions belong to the definers, not the defined.</p>
 
-<p>- Babe Ruth</p>
+<p>- Toni Morrison</p>
