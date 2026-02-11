@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Definitions belong to the definers, not the defined.</p>
+<p>Education breeds confidence. Confidence breeds hope. Hope breeds peace.</p>
 
-<p>- Toni Morrison</p>
+<p>- Confucius</p>
