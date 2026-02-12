@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
+<p>The future is the worst thing about the present.</p>
 
-<p>- Paulo Coelho</p>
+<p>- Gustave Flaubert</p>
