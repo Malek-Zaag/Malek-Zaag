@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The quality of your life is the quality of your relationships.</p>
+<p>Dreams provide nourishment for the soul, just as a meal does for the body.</p>
 
-<p>- Tony Robbins</p>
+<p>- Paulo Coelho</p>
