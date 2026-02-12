@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Storms don't last forever.</p>
+<p>The quality of your life is the quality of your relationships.</p>
 
-<p>- Unknown</p>
+<p>- Tony Robbins</p>
