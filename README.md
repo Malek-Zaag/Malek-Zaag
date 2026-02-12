@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The future is the worst thing about the present.</p>
+<p>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</p>
 
-<p>- Gustave Flaubert</p>
+<p>- Billie Jean King</p>
