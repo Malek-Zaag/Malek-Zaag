@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
+<p>Change yourself and you have done your part in changing the world.</p>
 
-<p>- Denis Waitley</p>
+<p>- Paramahansa Yogananda</p>
