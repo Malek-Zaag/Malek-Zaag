@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Change yourself and you have done your part in changing the world.</p>
+<p>Attitude is a little thing that makes a big difference.</p>
 
-<p>- Paramahansa Yogananda</p>
+<p>- Winston Churchill</p>
