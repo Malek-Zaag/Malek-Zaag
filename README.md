@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Natural talent only determines the limits of your athletic potential. It's dedication and a willingness to discipline your life that makes you great.</p>
+<p>Saying nothing sometimes says the most.</p>
 
-<p>- Billie Jean King</p>
+<p>- Emily Dickinson</p>
