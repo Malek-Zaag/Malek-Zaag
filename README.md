@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Saying nothing sometimes says the most.</p>
+<p>Happiness cannot be traveled to, owned, earned, worn or consumed.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Denis Waitley</p>
