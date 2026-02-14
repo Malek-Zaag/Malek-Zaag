@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The more I want to get something done, the less I call it work.</p>
+<p>You cannot push anyone up a ladder unless he is willing to climb a little himself.</p>
 
-<p>- Richard Bach</p>
+<p>- Andrew Carnegie</p>
