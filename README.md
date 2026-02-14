@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</p>
+<p>The more I want to get something done, the less I call it work.</p>
 
-<p>- Alan Watts</p>
+<p>- Richard Bach</p>
