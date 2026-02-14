@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You cannot push anyone up a ladder unless he is willing to climb a little himself.</p>
+<p>The purpose of life is the life of purpose.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Robin Sharma</p>
