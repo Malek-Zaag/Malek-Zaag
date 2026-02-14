@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Attitude is a little thing that makes a big difference.</p>
+<p>The only way to make sense out of change is to plunge into it, move with it, and join the dance.</p>
 
-<p>- Winston Churchill</p>
+<p>- Alan Watts</p>
