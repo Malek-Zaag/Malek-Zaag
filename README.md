@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Do not ignore the passion that burns in you. Spend time to discover your gift.</p>
+<p>Even a hare will bite when it is cornered. </p>
 
-<p>- Steve Harvey</p>
+<p>- Chinese Proverb</p>
