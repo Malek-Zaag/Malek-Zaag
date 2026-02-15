@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Happiness is a choice and a skill and you can dedicate yourself to learning that skill and making that choice.</p>
+<p>A random act of kindness, no matter how small, can make a tremendous impact on someone else's life.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Roy T. Bennett</p>
