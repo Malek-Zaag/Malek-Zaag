@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There is no limitations except those we create for ourselves.</p>
+<p>You can't get to a place that you don't believe exists.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Unknown</p>
