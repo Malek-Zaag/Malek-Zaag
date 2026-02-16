@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Even a hare will bite when it is cornered. </p>
+<p>It's easier to go down a hill than up it but the view is much better at the top.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Henry Ward Beecher</p>
