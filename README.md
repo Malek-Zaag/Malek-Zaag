@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You can't get to a place that you don't believe exists.</p>
+<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
 
-<p>- Unknown</p>
+<p>- Henry Ford</p>
