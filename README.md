@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</p>
+<p>Little by little, one travels far.</p>
 
-<p>- Henry Ward Beecher</p>
+<p>- J.R.R. Tolkien</p>
