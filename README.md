@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>True it is, we only hate those whom we do not know.</p>
+<p>Who you are is always right.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Ming-Dao Deng</p>
