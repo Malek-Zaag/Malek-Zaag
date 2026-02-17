@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Who you are is always right.</p>
+<p>There are more quarrels smothered by just shutting your mouth, and holding it shut, than by all the wisdom in the world.</p>
 
-<p>- Ming-Dao Deng</p>
+<p>- Henry Ward Beecher</p>
