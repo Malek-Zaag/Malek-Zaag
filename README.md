@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Failure is simply the opportunity to begin again, this time more intelligently.</p>
+<p>True it is, we only hate those whom we do not know.</p>
 
-<p>- Henry Ford</p>
+<p>- Andrew Carnegie</p>
