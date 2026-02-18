@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Art is the signature of civilizations. </p>
+<p>A wise man will be master of his mind, a fool will be its slave.</p>
 
-<p>- Beverly Sills</p>
+<p>- Publilius Syrus</p>
