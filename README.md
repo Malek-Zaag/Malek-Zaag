@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Little by little, one travels far.</p>
+<p>Art is the signature of civilizations. </p>
 
-<p>- J.R.R. Tolkien</p>
+<p>- Beverly Sills</p>
