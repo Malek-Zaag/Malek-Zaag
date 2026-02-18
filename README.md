@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</p>
+<p>The greatest weariness comes from work not done.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Eric Hoffer</p>
