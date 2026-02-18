@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A wise man will be master of his mind, a fool will be its slave.</p>
+<p>Darkness cannot drive out darkness; only light can do that. Hate cannot drive out hate; only love can do that.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Martin Luther King, Jr.</p>
