@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.</p>
+<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
 
-<p>- Tony Robbins</p>
+<p>- Dogen</p>
