@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You can't have anything worthwhile without difficulties.</p>
+<p>Self-knowledge is the beginning of self-correction.</p>
 
-<p>- Harry S. Truman</p>
+<p>- Norman Vincent Peale</p>
