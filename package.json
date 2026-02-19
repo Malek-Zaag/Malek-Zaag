@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/daniellaera/daniellaera#readme",
   "dependencies": {
-    "isomorphic-unfetch": "^3.1.0"
+    "isomorphic-unfetch": "^4.0.0"
   }
 }
