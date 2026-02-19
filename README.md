@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
+<p>You can't have anything worthwhile without difficulties.</p>
 
-<p>- Dogen</p>
+<p>- Harry S. Truman</p>
