@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Creativity is the greatest rebellion in existence.</p>
+<p>You have to give up some of the old so that you can make room for the new.</p>
 
-<p>- Osho</p>
+<p>- Yanni</p>
