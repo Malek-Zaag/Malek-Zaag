@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You have to give up some of the old so that you can make room for the new.</p>
+<p>The more we value things, the less we value ourselves.  </p>
 
-<p>- Yanni</p>
+<p>- Bruce Lee</p>
