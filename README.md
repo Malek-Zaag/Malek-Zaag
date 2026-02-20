@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Self-knowledge is the beginning of self-correction.</p>
+<p>Creativity is the greatest rebellion in existence.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Osho</p>
