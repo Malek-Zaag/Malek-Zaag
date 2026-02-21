@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Having an open mind is one of the most important qualities we can possess. Once our minds close, we stop evolving.</p>
+<p>Walk slowly but never walk backward.</p>
 
-<p>- Yanni</p>
+<p>- Unknown</p>
