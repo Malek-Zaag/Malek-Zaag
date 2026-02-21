@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Walk slowly but never walk backward.</p>
+<p>When you can't make them see the light, make them feel the heat.</p>
 
-<p>- Unknown</p>
+<p>- Ronald Reagan</p>
