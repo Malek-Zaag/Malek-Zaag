@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>When you can't make them see the light, make them feel the heat.</p>
+<p>Fools resist. The wise embrace.</p>
 
-<p>- Ronald Reagan</p>
+<p>- Maxime Lagace</p>
