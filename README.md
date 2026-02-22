@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you want to be happy, do not dwell in the past, do not worry about the future, focus on living fully in the present.</p>
+<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
 
-<p>- Roy T. Bennett</p>
+<p>- Pema Chodron</p>
