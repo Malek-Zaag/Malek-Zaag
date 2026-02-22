@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Work is always an antidote to depression.</p>
+<p>Take away love and our earth is a tomb.</p>
 
-<p>- Eleanor Roosevelt</p>
+<p>- Robert Browning</p>
