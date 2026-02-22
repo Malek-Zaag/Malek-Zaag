@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>To be fully alive, fully human, and completely awake is to be continually thrown out of the nest.</p>
+<p>Work is always an antidote to depression.</p>
 
-<p>- Pema Chodron</p>
+<p>- Eleanor Roosevelt</p>
