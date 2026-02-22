@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Take away love and our earth is a tomb.</p>
+<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
 
-<p>- Robert Browning</p>
+<p>- Kahlil Gibran</p>
