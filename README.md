@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Trust in dreams, for in them is the hidden gate to eternity.  </p>
+<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Aristotle</p>
