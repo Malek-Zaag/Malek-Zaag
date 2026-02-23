@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>People who say it cannot be done should not interrupt those who are doing it.</p>
+<p>The search for happiness is one of the chief sources of unhappiness.</p>
 
-<p>- George Bernard Shaw</p>
+<p>- Eric Hoffer</p>
