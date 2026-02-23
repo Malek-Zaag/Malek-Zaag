@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Happiness is the meaning and the purpose of life, the whole aim and end of human existence.</p>
+<p>A fear of weakness only strengthens weakness.</p>
 
-<p>- Aristotle</p>
+<p>- Criss Jami</p>
