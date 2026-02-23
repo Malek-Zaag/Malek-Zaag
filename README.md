@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A fear of weakness only strengthens weakness.</p>
+<p>People who say it cannot be done should not interrupt those who are doing it.</p>
 
-<p>- Criss Jami</p>
+<p>- George Bernard Shaw</p>
