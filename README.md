@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
+<p>Nothing important is learned; it is simply remembered.</p>
 
-<p>- Theodore Roosevelt</p>
+<p>- Carlos Ruiz Zafon</p>
