@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>True friendship ought never to conceal what it thinks. </p>
+<p>Far and away the best prize that life has to offer is the chance to work hard at work worth doing.</p>
 
-<p>- St. Jerome</p>
+<p>- Theodore Roosevelt</p>
