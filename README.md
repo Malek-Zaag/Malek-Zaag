@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Nothing important is learned; it is simply remembered.</p>
+<p>We are all in the gutter, but some of us are looking at the stars. </p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Oscar Wilde</p>
