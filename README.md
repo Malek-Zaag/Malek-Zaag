@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The search for happiness is one of the chief sources of unhappiness.</p>
+<p>True friendship ought never to conceal what it thinks. </p>
 
-<p>- Eric Hoffer</p>
+<p>- St. Jerome</p>
