@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</p>
+<p>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </p>
 
-<p>- Walt Disney</p>
+<p>- W. Clement Stone</p>
