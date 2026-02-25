@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The difference between treason and patriotism is only a matter of dates.</p>
+<p>When you believe in a thing, believe in it all the way, implicitly and unquestionable.</p>
 
-<p>- Alexandre Dumas</p>
+<p>- Walt Disney</p>
