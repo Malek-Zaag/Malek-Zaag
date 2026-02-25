@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>We are all in the gutter, but some of us are looking at the stars. </p>
+<p>The difference between treason and patriotism is only a matter of dates.</p>
 
-<p>- Oscar Wilde</p>
+<p>- Alexandre Dumas</p>
