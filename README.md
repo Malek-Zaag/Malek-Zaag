@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Truth will always be truth, regardless of lack of understanding, disbelief or ignorance. </p>
+<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
 
-<p>- W. Clement Stone</p>
+<p>- John Lennon</p>
