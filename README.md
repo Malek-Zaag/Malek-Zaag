@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You don't need anybody to tell you who you are or what you are. You are what you are!</p>
+<p>In youth we run into difficulties. In old age difficulties run into us. </p>
 
-<p>- John Lennon</p>
+<p>- Beverly Sills</p>
