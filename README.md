@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>In youth we run into difficulties. In old age difficulties run into us. </p>
+<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
 
-<p>- Beverly Sills</p>
+<p>- Yanni</p>
