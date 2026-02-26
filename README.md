@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The less you want, the richer you are. The more you need in order to be happy, the more miserable you'll be.</p>
+<p>It's much better to do good in a way that no one knows anything about it.</p>
 
-<p>- Yanni</p>
+<p>- Leo Tolstoy</p>
