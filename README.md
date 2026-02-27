@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Lost Time is never found again.</p>
+<p>The sun is new each day.</p>
 
-<p>- Benjamin Franklin</p>
+<p>- Heraclitus</p>
