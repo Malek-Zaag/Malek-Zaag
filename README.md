@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>What loneliness is more lonely than distrust?</p>
+<p>Lost Time is never found again.</p>
 
-<p>- George Eliot</p>
+<p>- Benjamin Franklin</p>
