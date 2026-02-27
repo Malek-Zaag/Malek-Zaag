@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you do what you've always done, you'll get what you've always gotten.</p>
+<p>The important thing is not what one is born with but what use one makes of that equipment.</p>
 
-<p>- Tony Robbins</p>
+<p>- Alfred Adler</p>
