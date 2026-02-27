@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The sun is new each day.</p>
+<p>If you do what you've always done, you'll get what you've always gotten.</p>
 
-<p>- Heraclitus</p>
+<p>- Tony Robbins</p>
