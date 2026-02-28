@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Do not think you will necessarily be aware of your own enlightenment.</p>
+<p>If you quit once it becomes a habit.</p>
 
-<p>- Dogen</p>
+<p>- Michael Jordan</p>
