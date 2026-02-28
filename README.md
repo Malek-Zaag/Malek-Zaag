@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The important thing is not what one is born with but what use one makes of that equipment.</p>
+<p>Failure is acceptable. Not trying is a whole different ball park.</p>
 
-<p>- Alfred Adler</p>
+<p>- Michael Jordan</p>
