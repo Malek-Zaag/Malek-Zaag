@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Failure is acceptable. Not trying is a whole different ball park.</p>
+<p>Force has no place where there is need of skill. </p>
 
-<p>- Michael Jordan</p>
+<p>- Herodotus</p>
