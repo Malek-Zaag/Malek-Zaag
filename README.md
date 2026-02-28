@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Force has no place where there is need of skill. </p>
+<p>Do not think you will necessarily be aware of your own enlightenment.</p>
 
-<p>- Herodotus</p>
+<p>- Dogen</p>
