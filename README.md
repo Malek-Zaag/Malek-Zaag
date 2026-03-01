@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You can have the mind or you can have the moment.</p>
+<p>When we have our body and mind in order, everything else will exist in the right place, in the right way.</p>
 
-<p>- Naval Ravikant</p>
+<p>- Shunryu Suzuki</p>
