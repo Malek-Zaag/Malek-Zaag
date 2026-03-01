@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Fear of death is fear of the Unknown.</p>
+<p>Love is merely the name for the desire and pursuit of the whole.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Aristophanes</p>
