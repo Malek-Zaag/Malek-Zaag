@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you quit once it becomes a habit.</p>
+<p>You can have the mind or you can have the moment.</p>
 
-<p>- Michael Jordan</p>
+<p>- Naval Ravikant</p>
