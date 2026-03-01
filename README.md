@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>When we have our body and mind in order, everything else will exist in the right place, in the right way.</p>
+<p>Fear of death is fear of the Unknown.</p>
 
-<p>- Shunryu Suzuki</p>
+<p>- Adi Da Samraj</p>
