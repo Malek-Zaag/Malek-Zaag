@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Love is merely the name for the desire and pursuit of the whole.</p>
+<p>Remember we're all in this alone.</p>
 
-<p>- Aristophanes</p>
+<p>- Lily Tomlin</p>
