@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>People are doing the best that they can from their own level of consciousness.</p>
+<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Nicolas Chamfort</p>
