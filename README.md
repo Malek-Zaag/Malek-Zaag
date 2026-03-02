@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Today I begin a new life. I will greet this day with love in my heart.</p>
+<p>People are doing the best that they can from their own level of consciousness.</p>
 
-<p>- Og Mandino</p>
+<p>- Deepak Chopra</p>
