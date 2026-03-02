@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Remember we're all in this alone.</p>
+<p>Today I begin a new life. I will greet this day with love in my heart.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Og Mandino</p>
