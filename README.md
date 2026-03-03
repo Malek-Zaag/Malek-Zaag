@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</p>
+<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
 
-<p>- Audrey Hepburn</p>
+<p>- Robert Greene</p>
