@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The roots of education are bitter, but the fruit is sweet.</p>
+<p>For fast-acting relief try slowing down.</p>
 
-<p>- Aristotle</p>
+<p>- Lily Tomlin</p>
