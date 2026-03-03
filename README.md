@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Intelligent people make many mistakes because they cannot believe the world is really as foolish as it is.</p>
+<p>The roots of education are bitter, but the fruit is sweet.</p>
 
-<p>- Nicolas Chamfort</p>
+<p>- Aristotle</p>
