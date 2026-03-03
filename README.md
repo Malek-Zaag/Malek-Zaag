@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>For fast-acting relief try slowing down.</p>
+<p>As you grow older you will discover that you have two hands. One for helping yourself, the other for helping others.</p>
 
-<p>- Lily Tomlin</p>
+<p>- Audrey Hepburn</p>
