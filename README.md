@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The more you know, the more you know you don't know.</p>
+<p>To a mind that is still, the entire universe surrenders.</p>
 
-<p>- Aristotle</p>
+<p>- Zhuangzi</p>
