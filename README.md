@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A Rolling Stone Gathers No Moss.</p>
+<p>The more you know, the more you know you don't know.</p>
 
-<p>- Publilius Syrus</p>
+<p>- Aristotle</p>
