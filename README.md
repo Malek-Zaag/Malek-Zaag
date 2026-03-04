@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If the happiness and prosperity of other people depend on you, you have nothing to fear anymore.</p>
+<p>A Rolling Stone Gathers No Moss.</p>
 
-<p>- Robert Greene</p>
+<p>- Publilius Syrus</p>
