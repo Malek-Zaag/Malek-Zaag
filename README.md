@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>To a mind that is still, the entire universe surrenders.</p>
+<p>There is a difference between giving directions and giving direction.</p>
 
-<p>- Zhuangzi</p>
+<p>- Simon Sinek</p>
