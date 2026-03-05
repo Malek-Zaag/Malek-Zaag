@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
+<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
 
-<p>- Samuel Butler</p>
+<p>- Kahlil Gibran</p>
