@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Generosity is giving more than you can, and pride is taking less than you need.</p>
+<p>How much pain they have cost us, the evils which have never happened.</p>
 
-<p>- Kahlil Gibran</p>
+<p>- Thomas Jefferson</p>
