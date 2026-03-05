@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The healthiest response to life is joy.</p>
+<p>Logic is like the sword - those who appeal to it shall perish by it.</p>
 
-<p>- Deepak Chopra</p>
+<p>- Samuel Butler</p>
