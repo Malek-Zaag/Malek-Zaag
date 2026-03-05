@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There is a difference between giving directions and giving direction.</p>
+<p>The healthiest response to life is joy.</p>
 
-<p>- Simon Sinek</p>
+<p>- Deepak Chopra</p>
