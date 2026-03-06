@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Fear is what stops you. Courage is what keeps you going.</p>
+<p>The biggest adventure you can ever take is to live the life of your dreams. </p>
 
-<p>- Unknown</p>
+<p>- Oprah Winfrey</p>
