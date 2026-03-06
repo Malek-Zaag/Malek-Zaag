@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A very little key will open a very heavy door.</p>
+<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
 
-<p>- Charles Dickens</p>
+<p>- Steve Jobs</p>
