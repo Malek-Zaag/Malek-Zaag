@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>How much pain they have cost us, the evils which have never happened.</p>
+<p>Fear is what stops you. Courage is what keeps you going.</p>
 
-<p>- Thomas Jefferson</p>
+<p>- Unknown</p>
