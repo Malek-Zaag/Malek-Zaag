@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Quality is more important than quantity. One home run is much better than two doubles.</p>
+<p>There is no significance in life without struggle.</p>
 
-<p>- Steve Jobs</p>
+<p>- Lolly Daskal</p>
