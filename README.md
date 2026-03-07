@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There is no significance in life without struggle.</p>
+<p>Live life as though nobody is watching, and express yourself as though everyone is listening.</p>
 
-<p>- Lolly Daskal</p>
+<p>- Nelson Mandela</p>
