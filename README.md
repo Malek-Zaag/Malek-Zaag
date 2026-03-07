@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Genius is patience.</p>
+<p>I never dwell on what happened. You can't change it. Move forward.</p>
 
-<p>- Isaac Newton</p>
+<p>- Joan Rivers</p>
