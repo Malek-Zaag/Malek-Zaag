@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Live life as though nobody is watching, and express yourself as though everyone is listening.</p>
+<p>Genius is patience.</p>
 
-<p>- Nelson Mandela</p>
+<p>- Isaac Newton</p>
