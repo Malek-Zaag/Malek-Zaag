@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Judge a man by his questions rather than his answers.</p>
+<p>Never was anything great achieved without danger.</p>
 
-<p>- Voltaire</p>
+<p>- Niccolo Machiavelli</p>
