@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The wisest men follow their own direction.</p>
+<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
 
-<p>- Euripides</p>
+<p>- Samuel Butler</p>
