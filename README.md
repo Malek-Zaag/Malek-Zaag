@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Never was anything great achieved without danger.</p>
+<p>The wisest men follow their own direction.</p>
 
-<p>- Niccolo Machiavelli</p>
+<p>- Euripides</p>
