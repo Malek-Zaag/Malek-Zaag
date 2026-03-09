@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>To escape from the world means that one's mind is not concerned with the opinions of the world.</p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>- Dogen</p>
+<p>- Lao Tzu</p>
