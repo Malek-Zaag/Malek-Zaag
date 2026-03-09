@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Life is the art of drawing sufficient conclusions from insufficient premises.</p>
+<p>To escape from the world means that one's mind is not concerned with the opinions of the world.</p>
 
-<p>- Samuel Butler</p>
+<p>- Dogen</p>
