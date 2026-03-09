@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>He who knows, does not speak. He who speaks, does not know.</p>
+<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
 
-<p>- Lao Tzu</p>
+<p>- Brian Tracy</p>
