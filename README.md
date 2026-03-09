@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The more reasons you have for achieving your goal, the more determined you will become.</p>
+<p>Allow motion to equal emotion.</p>
 
-<p>- Brian Tracy</p>
+<p>- Elbert Hubbard</p>
