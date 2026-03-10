@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
+<p>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</p>
 
-<p>- Norman Vincent Peale</p>
+<p>- Albert Einstein</p>
