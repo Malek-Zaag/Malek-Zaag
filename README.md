@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Allow motion to equal emotion.</p>
+<p>The secret of life isn't what happens to you, but what you do with what happens to you.</p>
 
-<p>- Elbert Hubbard</p>
+<p>- Norman Vincent Peale</p>
