@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</p>
+<p>Do every act of your life as if it were your last.</p>
 
-<p>- Emily Dickinson</p>
+<p>- Marcus Aurelius</p>
