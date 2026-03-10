@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>I am thankful to all who said no to me. It is because of them that I'm doing it myself.</p>
+<p>We never know how high we are till we are called to rise. Then if we are true to form our statures touch the skies.</p>
 
-<p>- Albert Einstein</p>
+<p>- Emily Dickinson</p>
