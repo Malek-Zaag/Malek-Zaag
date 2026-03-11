@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Relax. Nothing is under control.</p>
+<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
 
-<p>- Adi Da Samraj</p>
+<p>- Dogen</p>
