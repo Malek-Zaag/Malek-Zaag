@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
+<p>Relax. Nothing is under control.</p>
 
-<p>- Denis Waitley</p>
+<p>- Adi Da Samraj</p>
