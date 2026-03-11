@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The key to success is action.</p>
+<p>Change the changeable, accept the unchangeable, and remove yourself from the unacceptable. </p>
 
-<p>- Brian Tracy</p>
+<p>- Denis Waitley</p>
