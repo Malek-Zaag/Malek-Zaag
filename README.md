@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Do every act of your life as if it were your last.</p>
+<p>The key to success is action.</p>
 
-<p>- Marcus Aurelius</p>
+<p>- Brian Tracy</p>
