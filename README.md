@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.</p>
+<p>A tiny change today brings a dramatically different tomorrow.</p>
 
-<p>- Dogen</p>
+<p>- Richard Bach</p>
