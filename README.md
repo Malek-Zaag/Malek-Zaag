@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A tiny change today brings a dramatically different tomorrow.</p>
+<p>Those who cannot change their minds cannot change anything.</p>
 
-<p>- Richard Bach</p>
+<p>- George Bernard Shaw</p>
