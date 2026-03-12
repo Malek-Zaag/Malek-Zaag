@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Those who cannot change their minds cannot change anything.</p>
+<p>No great discovery was ever made without a bold guess. </p>
 
-<p>- George Bernard Shaw</p>
+<p>- Isaac Newton</p>
