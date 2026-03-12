@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>No great discovery was ever made without a bold guess. </p>
+<p>Of all men's miseries the bitterest is this: to know so much and to have control over nothing. </p>
 
-<p>- Isaac Newton</p>
+<p>- Herodotus</p>
