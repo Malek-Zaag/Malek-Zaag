@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Talk sense to a fool and he calls you foolish.</p>
+<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
 
-<p>- Euripides</p>
+<p>- Carlos Ruiz Zafon</p>
