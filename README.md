@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The less you talk about your shame, the more of it you have.</p>
+<p>Talk sense to a fool and he calls you foolish.</p>
 
-<p>- Mark Manson</p>
+<p>- Euripides</p>
