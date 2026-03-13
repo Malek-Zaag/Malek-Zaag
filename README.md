@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The sun shines upon good and bad alike.</p>
+<p>The less you talk about your shame, the more of it you have.</p>
 
-<p>- Hans Christian Andersen</p>
+<p>- Mark Manson</p>
