@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Every one of us is the sum total of his own thoughts.</p>
+<p>Tall oaks grow from little acorns.</p>
 
-<p>- Earl Nightingale</p>
+<p>- Andrew Carnegie</p>
