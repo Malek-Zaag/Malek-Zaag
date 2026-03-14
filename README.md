@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Tall oaks grow from little acorns.</p>
+<p>To know even one life has breathed easier because you have lived. This is to have succeeded.</p>
 
-<p>- Andrew Carnegie</p>
+<p>- Ralph Waldo Emerson</p>
