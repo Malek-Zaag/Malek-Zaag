@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>To know even one life has breathed easier because you have lived. This is to have succeeded.</p>
+<p>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </p>
 
-<p>- Ralph Waldo Emerson</p>
+<p>- Denis Waitley</p>
