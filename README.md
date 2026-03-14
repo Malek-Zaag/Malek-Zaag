@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich.</p>
+<p>Every one of us is the sum total of his own thoughts.</p>
 
-<p>- Carlos Ruiz Zafon</p>
+<p>- Earl Nightingale</p>
