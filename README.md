@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Do it with passion, or not at all.</p>
+<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
 
-<p>- Rosa Nouchette Carey</p>
+<p>- T.S. Eliot</p>
