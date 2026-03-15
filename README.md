@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. </p>
+<p>Peaceful is the one who expects nothing.</p>
 
-<p>- Denis Waitley</p>
+<p>- Maxime Lagace</p>
