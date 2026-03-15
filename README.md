@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.</p>
+<p>That some achieve great success is proof to all that others can achieve it as well.</p>
 
-<p>- T.S. Eliot</p>
+<p>- Abraham Lincoln</p>
