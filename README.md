@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Peaceful is the one who expects nothing.</p>
+<p>Do it with passion, or not at all.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Rosa Nouchette Carey</p>
