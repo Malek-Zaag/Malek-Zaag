@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The quality of your life is the quality of your relationships.</p>
+<p>Nothing brings down walls as surely as acceptance.</p>
 
-<p>- Tony Robbins</p>
+<p>- Deepak Chopra</p>
