@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>That some achieve great success is proof to all that others can achieve it as well.</p>
+<p>The quality of your life is the quality of your relationships.</p>
 
-<p>- Abraham Lincoln</p>
+<p>- Tony Robbins</p>
