@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Nothing brings down walls as surely as acceptance.</p>
+<p>Experience is a comb which nature gives us when we are bald. </p>
 
-<p>- Deepak Chopra</p>
+<p>- Chinese Proverb</p>
