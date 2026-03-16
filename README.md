@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Experience is a comb which nature gives us when we are bald. </p>
+<p>He who knows, does not speak. He who speaks, does not know.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Lao Tzu</p>
