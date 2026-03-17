@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>He who knows, does not speak. He who speaks, does not know.</p>
+<p>There can be no deep disappointment where there is not deep love.</p>
 
-<p>- Lao Tzu</p>
+<p>- Martin Luther King, Jr.</p>
