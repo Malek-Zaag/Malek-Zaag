@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There can be no deep disappointment where there is not deep love.</p>
+<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
 
-<p>- Martin Luther King, Jr.</p>
+<p>- Elon Musk</p>
