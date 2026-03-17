@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>We have a duty to maintain the light of consciousness to make sure it continues into the future.</p>
+<p>There is no limitations except those we create for ourselves.</p>
 
-<p>- Elon Musk</p>
+<p>- Lolly Daskal</p>
