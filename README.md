@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Closing your eyes and listening to silence is self-care.</p>
+<p>No one is useless in this world who lightens the burdens of another.</p>
 
-<p>- Maxime Lagace</p>
+<p>- Charles Dickens</p>
