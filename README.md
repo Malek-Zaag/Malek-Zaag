@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>You can't get to a place that you don't believe exists.</p>
+<p>Closing your eyes and listening to silence is self-care.</p>
 
-<p>- Unknown</p>
+<p>- Maxime Lagace</p>
