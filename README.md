@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
+<p>You can't get to a place that you don't believe exists.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Unknown</p>
