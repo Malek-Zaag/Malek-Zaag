@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Most of us will do anything to avoid facing ourselves.</p>
+<p>A clever person turns great troubles into little ones, and little ones into none at all. </p>
 
-<p>- Lolly Daskal</p>
+<p>- Chinese Proverb</p>
