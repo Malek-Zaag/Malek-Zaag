@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>No one is useless in this world who lightens the burdens of another.</p>
+<p>The quieter you become, the more you are able to hear.</p>
 
-<p>- Charles Dickens</p>
+<p>- Rumi</p>
