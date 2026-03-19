@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The quieter you become, the more you are able to hear.</p>
+<p>Whatever you decide to do, make sure it makes you happy.</p>
 
-<p>- Rumi</p>
+<p>- Paulo Coelho</p>
