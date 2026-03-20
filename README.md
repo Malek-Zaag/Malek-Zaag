@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
+<p>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</p>
 
-<p>- William Faulkner</p>
+<p>- Chinese Proverb</p>
