@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
+<p>Never be afraid to raise your voice for honesty and truth and compassion against injustice and lying and greed.</p>
 
-<p>- Robert Collier</p>
+<p>- William Faulkner</p>
