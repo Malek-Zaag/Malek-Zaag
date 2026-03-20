@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>There are two kinds of perfect people: those who are dead, and those who have not been born yet.</p>
+<p>A self that goes on changing is a self that goes on living.</p>
 
-<p>- Chinese Proverb</p>
+<p>- Virginia Woolf</p>
