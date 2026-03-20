@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Freedom from desire leads to inner peace.</p>
+<p>Your chances of success in any undertaking can always be measured by your belief in yourself.</p>
 
-<p>- Lao Tzu</p>
+<p>- Robert Collier</p>
