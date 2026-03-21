@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Happiness depends upon ourselves.</p>
+<p>The quality of your life is the quality of your relationships.</p>
 
-<p>- Aristotle</p>
+<p>- Tony Robbins</p>
