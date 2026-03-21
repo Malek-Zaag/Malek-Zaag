@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>The quality of your life is the quality of your relationships.</p>
+<p>Life is a question and how we live it is our answer.</p>
 
-<p>- Tony Robbins</p>
+<p>- Gary Keller</p>
