@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>A self that goes on changing is a self that goes on living.</p>
+<p>Life reflects your own thoughts back to you.</p>
 
-<p>- Virginia Woolf</p>
+<p>- Napoleon Hill</p>
