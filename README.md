@@ -92,6 +92,6 @@
 
 ## The Daily Quote
 
-<p>Life reflects your own thoughts back to you.</p>
+<p>Happiness depends upon ourselves.</p>
 
-<p>- Napoleon Hill</p>
+<p>- Aristotle</p>
