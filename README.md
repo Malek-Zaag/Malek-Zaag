@@ -6,7 +6,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+and+DevOps+student;Network+Engineer;CyberSecurity+Enthusiast)](https://git.io/typing-svg)
 
 <div>
+
 👨‍💻 Malek Zaag — Cloud & DevOps Engineer | Kubernetes Specialist
+
 
 🔭 Cloud-native engineer focused on DevSecOps, scalable architectures, and production-grade Kubernetes platforms, with hands-on experience in real-world cloud environments.
 
