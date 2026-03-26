@@ -6,26 +6,21 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Cloud+and+DevOps+student;Network+Engineer;CyberSecurity+Enthusiast)](https://git.io/typing-svg)
 
 <div>
- <p>
- I'm Malek Zaag, I am currently in the third year of Networks and Telecommunications engineering at INSAT, I am interested in the development of web applications and their migration to the cloud domain. I am autonomous, rigorous and open to all opportunities. 
+👨‍💻 Malek Zaag — Cloud & DevOps Engineer | Kubernetes Specialist
 
-## 🧐 More About Me
+🔭 Cloud-native engineer focused on DevSecOps, scalable architectures, and production-grade Kubernetes platforms, with hands-on experience in real-world cloud environments.
 
- - 💬 Ask me about anything and everything!
-  
- - 👨‍💻 Backend development using **NodeJS, Python and Golang**.
- 
- - ⚡ Creating scalable cloud architecture using **AWS And Azure Cloud**.
-  
- - 🥅 Working on **Various Topics and Projects**.
-  
- - ☸️ Diving deep in **Kubernetes** World.
+☸️ Deep expertise in the Kubernetes ecosystem, including administration, application deployment, security, and cluster operations — backed by industry-recognized certifications.
 
- - 🏆 5x Cloud Certified **(AWS, GCP and Azure)**.
-  
- - 🌱 Currently learning **Newest DevOps CI/CD Tools (Azure DevOps and GitHub Actions)**.  
+⚡ Designing and operating resilient, scalable cloud infrastructures across AWS, Azure, and GCP, leveraging Infrastructure as Code, GitOps, and observability practices.
 
- </p>
+👨‍💻 Strong foundation in backend engineering (Node.js, Python, Go), enabling effective collaboration across platform and application layers.
+
+🏆 Multi-cloud certified professional (AWS, Azure, GCP + Kubernetes certifications) demonstrating validated expertise in cloud architecture and cloud-native technologies
+
+🌱 Continuously expanding expertise in modern CI/CD and platform engineering, with a focus on GitHub Actions, Azure DevOps, and automation at scale.
+
+💬 Passionate about sharing knowledge as a tech storyteller, and always open to discussions around Cloud, Kubernetes, DevOps, and system design.
 </div>
 
 ## 📫 Reach out on
