@@ -86,9 +86,3 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malek-Zaag&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malek-Zaag&theme=github_dark&utcOffset=8)
 
-
-## The Daily Quote
-
-<p>Life is a question and how we live it is our answer.</p>
-
-<p>- Gary Keller</p>
