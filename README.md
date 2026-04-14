@@ -45,12 +45,12 @@
  <a href="mailto:zaag.malek1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-malek_zaag-c14438?style=flat&logo=Gmail&logoColor=white"></a>
 </p>
 -->
-
+ <!-- 
 ## 📊 Github Stats
  <div align="center">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Malek-Zaag&count_private=true&show_icons=true" alt="Gift's LangStat" /> 
 <br/>
- <!--  
+ 
 <p style="">
  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Malek-Zaag" alt="mk" />
 </p>
