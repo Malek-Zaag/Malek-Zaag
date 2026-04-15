@@ -27,15 +27,19 @@
 
 ## 📫 Reach out on
 
-  - 🐦 Twitter : https://x.com/MalekZaag
-  
-  - 📘 Linkedin : https://www.linkedin.com/in/malekzaag/
-  
-  - 🔖 Reddit : https://www.reddit.com/user/MK_ZG/
-  
-  - 📑 Medium: https://medium.com/@malek.zaag
+- 🐦 Twitter: https://x.com/MalekZaag
 
-  - 🥇 Credly: https://www.credly.com/users/malek-zaag
+- 📘 Linkedin: https://www.linkedin.com/in/malekzaag/
+
+- 🔖 Reddit: https://www.reddit.com/user/MK_ZG/
+
+- 📑 Medium: https://medium.com/@malek.zaag
+
+- 🥇 Credly: https://www.credly.com/users/malek-zaag
+
+- 🧠 LeetCode: https://leetcode.com/u/Malek-Zaag/
+
+- 💻 HackerRank: https://www.hackerrank.com/profile/Malek-Zaag
 <!--
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Malek-Zaag&label=Profile%20views&color=0e75b6&style=flat" alt="malek-zaag" />
@@ -43,6 +47,12 @@
  <a href="https://www.linkedin.com/in/malekzaag/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-malek_zaag-blue?style=flat&logo=Linkedin&logoColor=white"></a>
  <a href="https://github.com/Malek-Zaag"><img alt="Email" src="https://img.shields.io/github/followers/Malek-Zaag?label=Follow&style=social"></a>
  <a href="mailto:zaag.malek1@gmail.com"><img alt="Email" src="https://img.shields.io/badge/-malek_zaag-c14438?style=flat&logo=Gmail&logoColor=white"></a>
+<a href="https://leetcode.com/u/Malek-Zaag/" target="_blank">
+  <img alt="LeetCode" src="https://img.shields.io/badge/-Malek--Zaag-FFA116?style=flat&logo=LeetCode&logoColor=black">
+</a>
+<a href="https://www.hackerrank.com/profile/Malek-Zaag" target="_blank">
+  <img alt="HackerRank" src="https://img.shields.io/badge/-Malek--Zaag-00EA64?style=flat&logo=HackerRank&logoColor=black">
+</a>
 </p>
 -->
  <!-- 
