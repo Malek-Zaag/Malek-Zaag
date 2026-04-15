@@ -57,7 +57,7 @@
   <img align="center" src="https://streak-stats.demolab.com/?user=Malek-Zaag" alt="Gift's LangStat" /> 
    -->
 </div>
-
+<!--
 ## 🔨 Languages and Tools
 
 <p align="left">
@@ -86,3 +86,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Malek-Zaag&theme=github_dark)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Malek-Zaag&theme=github_dark&utcOffset=8)
 
+   -->
