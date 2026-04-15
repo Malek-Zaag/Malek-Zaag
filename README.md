@@ -37,9 +37,9 @@
 
 - 🥇 Credly: https://www.credly.com/users/malek-zaag
 
-- 🧠 LeetCode: https://leetcode.com/u/Malek-Zaag/
+- 🧠 LeetCode: [https://leetcode.com/u/Malek-Zaag](https://leetcode.com/u/MalekZaag)
 
-- 💻 HackerRank: https://www.hackerrank.com/profile/Malek-Zaag
+- 💻 HackerRank: https://www.hackerrank.com/profile/zaag_malek1
 <!--
 <p align="center">
  <img src="https://komarev.com/ghpvc/?username=Malek-Zaag&label=Profile%20views&color=0e75b6&style=flat" alt="malek-zaag" />
